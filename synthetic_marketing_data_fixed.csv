@@ -1,0 +1,1001 @@
+Client,Industry,Platform,Content_Type,Topic,Posting_Day,Posting_Time,Reach,Likes,Comments,Shares,Saves,Clicks,Leads,Ad_Spend,Revenue,Performance_Score
+Client_001,Beauty,Instagram,Reel,Customer Story,Tuesday,11,11965,1087,79,66,93,68,3,4639,2815,16.94
+Client_002,Fitness,Instagram,Static,Tips & Tricks,Thursday,11,15775,1622,33,251,189,213,10,3257,4299,28.77
+Client_003,Education,Instagram,Carousel,Customer Story,Friday,12,6423,502,39,49,50,165,17,3462,15872,10.4
+Client_004,Beauty,Instagram,Reel,Behind the Scenes,Sunday,12,9517,1027,43,111,135,86,6,2687,6392,17.69
+Client_005,Fitness,YouTube Shorts,Reel,Tips & Tricks,Saturday,11,23041,1251,94,174,80,301,36,958,17686,27.54
+Client_006,Technology,Facebook,Carousel,Product Education,Tuesday,22,17358,1012,60,102,142,285,17,2520,21802,20.16
+Client_007,Fitness,Facebook,Static,Tips & Tricks,Thursday,22,7634,379,30,44,18,47,2,1810,5580,5.5
+Client_008,Fitness,Instagram,Carousel,Promotion,Friday,15,22338,2400,49,344,275,411,25,3286,11504,43.77
+Client_009,Education,Instagram,Carousel,Product Education,Saturday,22,13630,1031,27,135,136,241,12,3563,13683,18.56
+Client_010,Fitness,YouTube Shorts,Reel,Tips & Tricks,Wednesday,15,22367,2439,170,219,113,602,86,1201,89895,51.21
+Client_011,Fashion,YouTube Shorts,Reel,Behind the Scenes,Saturday,15,18356,1422,80,249,202,438,49,3053,35301,36.35
+Client_012,Education,YouTube Shorts,Carousel,Product Education,Tuesday,11,6689,554,18,43,26,138,7,757,10616,7.07
+Client_013,Fashion,YouTube Shorts,Reel,Customer Story,Saturday,15,12918,1228,89,153,81,217,17,1272,9464,23.45
+Client_014,Technology,Facebook,Carousel,Promotion,Sunday,19,14032,1663,43,170,128,372,22,2058,21253,26.78
+Client_015,Food,Facebook,Reel,Customer Story,Thursday,11,12825,497,29,59,20,94,11,2436,7949,8.29
+Client_016,Education,Facebook,Reel,Promotion,Monday,10,3793,204,13,22,17,109,16,4486,8083,4.5
+Client_017,Technology,Instagram,Reel,Tips & Tricks,Saturday,16,8746,307,16,35,41,78,11,1156,13853,5.88
+Client_018,Fashion,YouTube Shorts,Reel,Behind the Scenes,Thursday,9,31212,2606,148,272,271,563,80,2173,77373,56.93
+Client_019,Food,Facebook,Carousel,Behind the Scenes,Saturday,18,10491,1191,90,60,129,200,8,4904,7888,20.03
+Client_020,Technology,Instagram,Carousel,Product Education,Tuesday,13,14338,1506,93,195,223,306,9,2952,9209,30.37
+Client_021,Food,Facebook,Reel,Product Education,Saturday,16,9327,787,49,60,86,108,9,916,6565,13.4
+Client_022,Technology,Instagram,Reel,Customer Story,Sunday,10,16978,1352,61,69,65,459,63,4969,21042,26.27
+Client_023,Fitness,YouTube Shorts,Reel,Promotion,Tuesday,8,9133,1012,32,83,51,223,30,3829,27816,17.03
+Client_024,Food,Instagram,Reel,Promotion,Monday,10,19856,2029,145,315,140,490,21,817,27564,40.95
+Client_025,Food,Instagram,Carousel,Customer Story,Wednesday,21,12457,1113,48,95,53,303,21,4673,18231,17.85
+Client_026,Technology,Instagram,Reel,Customer Story,Tuesday,17,17122,1432,58,218,126,506,22,2057,11583,27.58
+Client_027,Beauty,Facebook,Reel,Tips & Tricks,Sunday,16,11208,406,24,37,30,293,34,2960,28679,10.35
+Client_028,Beauty,Facebook,Carousel,Promotion,Saturday,12,5085,344,26,47,47,103,6,4988,6621,6.6
+Client_029,Technology,Facebook,Reel,Promotion,Sunday,17,17157,1232,57,95,113,472,59,1890,55210,26.91
+Client_030,Technology,YouTube Shorts,Static,Tips & Tricks,Wednesday,9,12936,649,20,34,43,218,28,1096,23443,11.3
+Client_031,Beauty,YouTube Shorts,Reel,Promotion,Thursday,14,34371,3158,232,511,433,840,47,4743,34486,74.45
+Client_032,Fitness,Instagram,Reel,Promotion,Tuesday,20,25281,3006,167,521,414,513,59,4635,44962,71.05
+Client_033,Education,Instagram,Static,Promotion,Thursday,12,10480,575,38,64,38,167,19,2420,12783,11.36
+Client_034,Technology,YouTube Shorts,Reel,Behind the Scenes,Tuesday,11,13758,1287,30,132,128,211,11,3941,11912,20.16
+Client_035,Beauty,Instagram,Static,Promotion,Thursday,8,13220,1412,109,147,172,246,25,2306,20522,29.81
+Client_036,Technology,Facebook,Carousel,Product Education,Thursday,13,14864,1570,118,278,155,411,41,722,17246,38.1
+Client_037,Food,Facebook,Reel,Product Education,Wednesday,14,8083,480,31,47,58,208,12,1170,8930,9.17
+Client_038,Beauty,YouTube Shorts,Reel,Customer Story,Tuesday,18,34195,1149,25,94,152,702,41,4379,39272,22.79
+Client_039,Fitness,Instagram,Carousel,Customer Story,Sunday,13,10498,1225,77,185,71,134,13,3055,13981,22.94
+Client_040,Education,YouTube Shorts,Reel,Product Education,Friday,19,36056,3588,254,459,191,1067,132,3344,108449,82.74
+Client_041,Beauty,Facebook,Reel,Tips & Tricks,Saturday,13,21148,2199,57,384,241,543,62,4067,30934,48.77
+Client_042,Beauty,Facebook,Static,Tips & Tricks,Sunday,15,8108,675,26,55,96,97,8,4306,11663,11.16
+Client_043,Beauty,Facebook,Carousel,Product Education,Thursday,21,5979,293,19,27,40,134,8,583,7797,5.18
+Client_044,Fashion,Instagram,Static,Promotion,Thursday,16,10299,907,44,138,45,108,12,3008,15912,15.97
+Client_045,Technology,Facebook,Static,Tips & Tricks,Wednesday,14,6735,628,22,51,33,66,2,4889,3576,7.59
+Client_046,Food,Instagram,Static,Promotion,Wednesday,19,19455,1628,128,257,118,272,18,4875,9069,33.74
+Client_047,Fashion,Instagram,Static,Customer Story,Saturday,10,16868,1377,66,147,83,106,15,4413,6025,22.74
+Client_048,Education,Facebook,Reel,Tips & Tricks,Saturday,18,6856,706,54,43,47,129,10,2348,14720,11.45
+Client_049,Education,Facebook,Carousel,Customer Story,Sunday,17,8003,687,38,100,99,81,4,1165,3604,13.04
+Client_050,Food,YouTube Shorts,Reel,Behind the Scenes,Monday,14,31822,2300,50,201,163,842,32,2412,40439,35.66
+Client_051,Beauty,YouTube Shorts,Static,Behind the Scenes,Thursday,9,21776,945,33,64,43,540,54,2864,38764,19.33
+Client_052,Education,YouTube Shorts,Carousel,Promotion,Wednesday,16,20344,757,16,80,57,229,9,669,11504,11.03
+Client_053,Fitness,Instagram,Reel,Promotion,Friday,18,24362,2916,134,454,427,408,32,3130,30808,62.3
+Client_054,Food,Facebook,Carousel,Promotion,Wednesday,18,16329,543,13,44,28,397,53,509,53363,13.81
+Client_055,Education,Facebook,Reel,Behind the Scenes,Friday,13,16557,1629,52,197,231,264,30,1494,13357,32.38
+Client_056,Food,YouTube Shorts,Reel,Customer Story,Friday,8,11317,568,40,36,81,239,11,2890,10720,10.52
+Client_057,Education,Facebook,Carousel,Behind the Scenes,Thursday,16,9284,1048,52,172,141,110,13,3899,11933,21.79
+Client_058,Technology,Instagram,Carousel,Customer Story,Sunday,17,24002,2589,121,292,198,577,43,3136,50565,48.03
+Client_059,Beauty,Instagram,Static,Promotion,Tuesday,21,14768,1432,89,222,118,318,40,1746,30583,32.07
+Client_060,Food,YouTube Shorts,Static,Customer Story,Sunday,9,18587,2080,43,142,282,543,21,2671,15772,33.45
+Client_061,Beauty,Instagram,Carousel,Tips & Tricks,Thursday,13,20989,697,16,92,98,628,75,4055,27073,22.34
+Client_062,Education,Instagram,Static,Customer Story,Monday,8,12503,705,29,48,69,239,29,1892,13087,13.7
+Client_063,Fitness,Facebook,Static,Behind the Scenes,Thursday,22,4275,305,10,25,12,107,14,4977,6359,4.73
+Client_064,Education,Facebook,Static,Customer Story,Saturday,14,8387,401,17,45,26,161,15,2918,7322,7.15
+Client_065,Technology,Instagram,Static,Product Education,Friday,19,17020,1698,57,261,108,166,9,1620,8832,28.5
+Client_066,Beauty,YouTube Shorts,Reel,Customer Story,Sunday,15,22443,2152,54,190,263,210,9,4918,13320,33.94
+Client_067,Fitness,YouTube Shorts,Carousel,Behind the Scenes,Wednesday,22,15671,1523,61,98,222,133,19,3755,25769,26.65
+Client_068,Technology,Instagram,Carousel,Product Education,Wednesday,16,9049,819,49,103,106,257,11,2415,8257,16.08
+Client_069,Fitness,YouTube Shorts,Carousel,Tips & Tricks,Tuesday,18,21213,2372,90,244,131,607,40,4535,15516,40.36
+Client_070,Food,YouTube Shorts,Reel,Promotion,Thursday,13,31556,3054,89,317,155,543,42,2791,14921,49.04
+Client_071,Food,Facebook,Carousel,Behind the Scenes,Sunday,13,14234,1124,88,108,94,138,6,4225,3795,19.73
+Client_072,Beauty,YouTube Shorts,Static,Product Education,Monday,20,8100,816,26,128,82,159,20,2408,12928,16.22
+Client_073,Fitness,Instagram,Carousel,Behind the Scenes,Tuesday,16,13213,527,37,35,41,326,32,629,15869,11.99
+Client_074,Fashion,Instagram,Static,Promotion,Friday,9,5665,566,28,36,54,162,5,4771,6542,8.05
+Client_075,Beauty,Instagram,Reel,Promotion,Sunday,14,23710,1757,131,104,85,479,18,2752,20797,28.46
+Client_076,Fitness,YouTube Shorts,Carousel,Promotion,Friday,16,22565,1906,49,269,255,480,58,2261,43719,41.84
+Client_077,Food,Facebook,Carousel,Promotion,Thursday,14,8120,471,16,81,54,136,5,1199,5262,8.22
+Client_078,Fashion,YouTube Shorts,Static,Customer Story,Sunday,10,20173,2342,125,321,199,541,77,3964,88047,52.67
+Client_079,Technology,YouTube Shorts,Carousel,Customer Story,Monday,17,11070,986,32,63,131,157,19,2352,23959,16.88
+Client_080,Fitness,YouTube Shorts,Static,Tips & Tricks,Monday,17,9528,520,34,88,40,90,4,3783,2446,9.33
+Client_081,Beauty,YouTube Shorts,Reel,Product Education,Saturday,16,24696,1749,51,158,132,704,71,930,30328,35.08
+Client_082,Fitness,Instagram,Static,Product Education,Wednesday,15,15115,1054,38,156,55,238,15,4486,14361,18.12
+Client_083,Fashion,Instagram,Carousel,Tips & Tricks,Monday,8,11698,1158,76,101,61,203,16,1558,14586,19.55
+Client_084,Beauty,Instagram,Static,Tips & Tricks,Sunday,18,13284,1428,32,74,201,352,34,3813,36605,25.01
+Client_085,Technology,Instagram,Carousel,Product Education,Wednesday,10,20076,2264,57,361,151,395,36,3742,43617,41.73
+Client_086,Beauty,Facebook,Reel,Customer Story,Sunday,10,14203,571,28,95,44,329,42,1709,21464,15.53
+Client_087,Food,Facebook,Reel,Behind the Scenes,Friday,10,7377,549,35,81,49,207,20,3147,25269,12.08
+Client_088,Food,Facebook,Reel,Promotion,Thursday,18,20058,1669,68,99,151,119,8,2851,3363,24.36
+Client_089,Fitness,YouTube Shorts,Static,Promotion,Thursday,17,5875,414,28,55,31,99,4,1006,3691,6.73
+Client_090,Technology,YouTube Shorts,Reel,Tips & Tricks,Saturday,10,36483,2531,117,298,145,522,33,3848,37190,44.43
+Client_091,Beauty,YouTube Shorts,Reel,Customer Story,Monday,13,35286,2286,80,367,333,708,34,1167,29922,48.72
+Client_092,Technology,Facebook,Static,Promotion,Tuesday,17,6457,412,27,64,46,166,19,4812,10023,9.72
+Client_093,Fitness,Facebook,Reel,Customer Story,Wednesday,10,10747,508,40,35,36,265,24,4921,30833,10.65
+Client_094,Fashion,YouTube Shorts,Carousel,Tips & Tricks,Tuesday,17,11316,523,32,68,72,260,9,3484,10423,10.26
+Client_095,Education,YouTube Shorts,Carousel,Promotion,Tuesday,16,21368,2379,75,328,244,342,41,3628,35644,46.09
+Client_096,Education,Instagram,Reel,Tips & Tricks,Tuesday,21,16490,1207,51,206,142,295,13,1187,14716,24.16
+Client_097,Technology,Facebook,Static,Behind the Scenes,Sunday,14,14333,1483,108,253,127,213,15,3663,8066,31.14
+Client_098,Food,Instagram,Carousel,Product Education,Sunday,19,15986,677,25,106,78,135,15,4174,13243,13.45
+Client_099,Fashion,Instagram,Carousel,Behind the Scenes,Sunday,10,22983,1781,47,155,130,142,11,4244,4362,25.75
+Client_100,Education,YouTube Shorts,Static,Product Education,Saturday,16,23636,1014,46,131,67,364,39,1201,33608,21.44
+Client_101,Fashion,YouTube Shorts,Static,Tips & Tricks,Sunday,16,15035,1632,36,163,132,356,25,1053,17050,26.46
+Client_102,Beauty,YouTube Shorts,Static,Product Education,Sunday,17,5961,367,14,49,48,131,19,4420,18517,8.14
+Client_103,Food,Instagram,Static,Promotion,Monday,12,9284,1018,39,91,85,235,20,799,21985,17.28
+Client_104,Technology,Facebook,Reel,Customer Story,Wednesday,9,12698,1230,90,123,180,221,19,4753,10613,25.79
+Client_105,Beauty,Facebook,Reel,Promotion,Friday,21,14921,878,21,119,64,299,24,4136,18278,16.13
+Client_106,Fashion,YouTube Shorts,Carousel,Tips & Tricks,Thursday,12,27993,2445,102,376,280,806,37,4089,11579,50.38
+Client_107,Fashion,Instagram,Static,Customer Story,Wednesday,14,18869,826,38,81,73,130,6,3506,6517,12.93
+Client_108,Beauty,Facebook,Reel,Product Education,Monday,19,13970,905,48,76,62,225,33,2839,35703,17.72
+Client_109,Food,Instagram,Reel,Product Education,Thursday,10,24481,2866,226,392,338,459,29,2957,33799,62.04
+Client_110,Beauty,YouTube Shorts,Static,Behind the Scenes,Sunday,13,7980,946,63,76,89,111,10,4328,15239,16.24
+Client_111,Food,YouTube Shorts,Reel,Product Education,Wednesday,14,24325,2413,167,143,354,512,43,4738,26937,48.92
+Client_112,Fitness,YouTube Shorts,Static,Behind the Scenes,Sunday,10,6252,655,33,58,37,177,10,4750,13986,10.04
+Client_113,Fashion,Facebook,Reel,Tips & Tricks,Wednesday,10,16332,627,36,79,65,151,15,3265,21297,12.37
+Client_114,Fashion,Instagram,Reel,Product Education,Saturday,20,29873,1462,79,190,63,813,77,2974,59294,34.54
+Client_115,Beauty,Facebook,Carousel,Promotion,Monday,19,5589,376,17,35,20,148,10,3329,7651,5.66
+Client_116,Technology,YouTube Shorts,Static,Product Education,Wednesday,11,11811,832,23,47,119,314,25,1808,29757,15.18
+Client_117,Fitness,YouTube Shorts,Carousel,Behind the Scenes,Sunday,10,21296,1594,61,84,229,375,54,2262,48628,32.25
+Client_118,Fashion,Instagram,Carousel,Promotion,Friday,22,20420,627,16,42,43,288,22,870,14939,10.27
+Client_119,Fitness,YouTube Shorts,Reel,Customer Story,Friday,12,28153,1985,105,312,215,570,25,1292,19382,41.03
+Client_120,Technology,YouTube Shorts,Carousel,Behind the Scenes,Tuesday,17,22386,752,16,107,96,402,19,4723,10153,14.67
+Client_121,Fitness,Facebook,Reel,Promotion,Friday,19,15908,1203,60,136,122,268,8,3213,8409,20.81
+Client_122,Education,YouTube Shorts,Carousel,Product Education,Friday,15,24955,2045,129,257,120,517,53,3614,23237,42.33
+Client_123,Fashion,YouTube Shorts,Static,Product Education,Tuesday,8,15777,688,42,71,86,441,59,1010,58479,20.26
+Client_124,Fitness,Instagram,Static,Customer Story,Saturday,15,17774,2063,98,246,206,389,52,2665,49414,42.7
+Client_125,Food,Instagram,Carousel,Tips & Tricks,Wednesday,11,14752,1378,84,156,127,280,39,2740,22214,29.15
+Client_126,Fitness,YouTube Shorts,Static,Promotion,Thursday,21,8639,484,18,69,37,138,8,4424,5407,7.95
+Client_127,Fitness,Facebook,Static,Customer Story,Tuesday,9,5536,191,14,15,12,41,2,4369,1830,1.92
+Client_128,Fashion,YouTube Shorts,Reel,Promotion,Saturday,22,34145,1637,127,150,181,945,38,2402,30591,34.93
+Client_129,Food,Facebook,Reel,Product Education,Sunday,14,7565,823,16,101,42,223,14,4950,15050,12.58
+Client_130,Food,YouTube Shorts,Carousel,Customer Story,Tuesday,20,11324,1084,63,155,45,152,9,2082,7182,18.58
+Client_131,Education,YouTube Shorts,Carousel,Product Education,Thursday,18,10607,774,58,39,63,171,10,3200,10361,12.54
+Client_132,Beauty,YouTube Shorts,Reel,Customer Story,Saturday,13,34852,1416,54,145,134,954,109,3047,105165,38.16
+Client_133,Beauty,Facebook,Carousel,Tips & Tricks,Tuesday,11,10834,768,60,75,90,301,36,2289,39107,18.69
+Client_134,Beauty,YouTube Shorts,Reel,Tips & Tricks,Thursday,16,30607,1227,85,205,76,563,28,4762,20608,26.58
+Client_135,Beauty,Instagram,Static,Tips & Tricks,Thursday,9,17378,1230,62,134,57,287,36,678,25664,23.36
+Client_136,Fashion,YouTube Shorts,Reel,Tips & Tricks,Monday,8,36187,1293,102,221,61,1025,34,3849,15865,29.11
+Client_137,Beauty,YouTube Shorts,Static,Promotion,Wednesday,22,14695,937,57,127,93,313,22,1962,20819,19.57
+Client_138,Fitness,Instagram,Static,Behind the Scenes,Sunday,8,4595,416,21,49,54,51,3,2758,2253,6.67
+Client_139,Fashion,YouTube Shorts,Carousel,Tips & Tricks,Sunday,22,12752,459,25,49,52,341,20,862,16815,9.76
+Client_140,Food,YouTube Shorts,Reel,Product Education,Tuesday,16,37462,3066,167,461,398,409,55,4770,29567,68.27
+Client_141,Technology,Facebook,Reel,Tips & Tricks,Friday,22,16570,1134,56,200,162,360,44,3111,45782,29.04
+Client_142,Education,Instagram,Carousel,Promotion,Tuesday,20,22626,2408,91,341,309,630,61,3912,54361,52.76
+Client_143,Food,Facebook,Reel,Customer Story,Tuesday,13,12961,496,31,37,34,283,28,1096,17189,10.64
+Client_144,Beauty,YouTube Shorts,Static,Behind the Scenes,Thursday,11,5201,255,8,37,31,124,17,2175,13112,5.7
+Client_145,Fitness,Facebook,Carousel,Promotion,Thursday,16,8053,502,36,55,64,185,22,3123,27756,11.62
+Client_146,Technology,Facebook,Carousel,Product Education,Friday,21,15144,476,25,59,56,187,10,2384,11047,8.84
+Client_147,Food,Facebook,Static,Customer Story,Wednesday,20,11883,1147,54,166,90,100,9,2007,15133,20.28
+Client_148,Beauty,Instagram,Static,Product Education,Sunday,21,5948,204,4,13,22,39,1,2291,4502,1.51
+Client_149,Technology,Instagram,Static,Tips & Tricks,Thursday,18,16788,1307,58,68,156,308,19,4614,24085,21.78
+Client_150,Food,Instagram,Reel,Tips & Tricks,Tuesday,11,14111,743,30,113,36,408,34,2492,34592,16.11
+Client_151,Technology,YouTube Shorts,Reel,Product Education,Monday,14,30137,2195,127,310,107,787,84,3213,70417,49.56
+Client_152,Fitness,Instagram,Reel,Behind the Scenes,Sunday,19,29465,1007,24,171,139,562,19,3076,6751,20.64
+Client_153,Fitness,Instagram,Static,Promotion,Monday,12,8258,668,47,92,66,120,14,1142,13501,13.67
+Client_154,Fashion,Instagram,Carousel,Behind the Scenes,Sunday,9,16160,1873,82,282,81,191,28,4519,16438,34.13
+Client_155,Fitness,Facebook,Carousel,Behind the Scenes,Saturday,17,4404,249,8,14,17,63,7,1763,10240,2.88
+Client_156,Technology,Facebook,Reel,Product Education,Monday,12,11120,435,10,46,44,198,8,1234,9436,6.51
+Client_157,Fashion,YouTube Shorts,Static,Customer Story,Sunday,14,15647,1015,25,169,141,460,45,1889,45913,24.72
+Client_158,Food,Instagram,Carousel,Customer Story,Wednesday,15,9781,676,30,76,32,110,6,4561,6749,9.9
+Client_159,Education,Instagram,Reel,Customer Story,Monday,14,19857,1274,91,136,111,508,54,1615,32704,29.88
+Client_160,Fitness,YouTube Shorts,Reel,Promotion,Wednesday,10,19437,1868,108,328,235,255,16,3718,10900,40.13
+Client_161,Fitness,Instagram,Static,Tips & Tricks,Tuesday,18,18420,1317,82,140,94,411,52,3851,52918,28.98
+Client_162,Food,YouTube Shorts,Carousel,Behind the Scenes,Wednesday,18,19865,2006,49,358,185,298,27,3926,22063,38.87
+Client_163,Technology,YouTube Shorts,Static,Tips & Tricks,Saturday,22,11307,1008,41,135,45,334,37,3773,40456,20.26
+Client_164,Education,Instagram,Reel,Product Education,Wednesday,11,27166,2179,133,171,176,450,50,4599,23025,41.78
+Client_165,Fashion,Facebook,Reel,Customer Story,Thursday,22,6126,261,10,28,16,104,9,4089,12607,3.86
+Client_166,Technology,Instagram,Carousel,Product Education,Sunday,19,8771,774,46,55,114,97,4,1811,6938,13.03
+Client_167,Education,Facebook,Reel,Promotion,Saturday,10,16866,1161,25,150,71,334,25,2259,13780,19.95
+Client_168,Beauty,Instagram,Static,Product Education,Sunday,21,18073,1072,50,90,144,328,34,3683,32965,22.24
+Client_169,Fitness,Instagram,Carousel,Customer Story,Sunday,15,10653,996,37,129,49,88,3,3001,2606,14.65
+Client_170,Technology,YouTube Shorts,Reel,Tips & Tricks,Thursday,14,31043,2003,62,265,232,655,98,1866,75964,48.6
+Client_171,Food,Instagram,Carousel,Promotion,Friday,8,16764,708,48,124,67,291,32,3904,34900,17.95
+Client_172,Education,Instagram,Reel,Tips & Tricks,Monday,20,15282,836,43,60,75,360,43,4684,20386,18.26
+Client_173,Fashion,Facebook,Static,Customer Story,Friday,21,12360,861,28,90,104,263,15,764,12802,15.23
+Client_174,Technology,Instagram,Carousel,Product Education,Sunday,20,12764,1174,84,151,102,260,32,2195,34854,25.61
+Client_175,Fitness,Facebook,Static,Customer Story,Friday,16,6641,374,20,65,36,182,23,1610,26785,9.36
+Client_176,Fashion,Facebook,Static,Behind the Scenes,Saturday,21,5672,533,37,79,60,97,9,2701,11421,10.66
+Client_177,Education,Facebook,Reel,Product Education,Thursday,16,17977,1274,62,160,172,470,19,4255,20034,25.52
+Client_178,Fashion,YouTube Shorts,Carousel,Behind the Scenes,Thursday,21,14799,873,32,105,47,389,48,896,15071,19.39
+Client_179,Beauty,Facebook,Reel,Product Education,Sunday,10,13098,1562,71,280,218,354,23,2744,10887,34.48
+Client_180,Technology,Instagram,Carousel,Behind the Scenes,Monday,14,15010,1470,67,90,74,155,6,2352,8331,19.83
+Client_181,Fashion,Instagram,Static,Customer Story,Sunday,9,15070,1100,37,67,141,114,8,2951,6255,16.8
+Client_182,Food,YouTube Shorts,Static,Behind the Scenes,Monday,16,20798,1840,85,264,200,182,14,4124,17599,34.91
+Client_183,Fashion,Instagram,Reel,Product Education,Friday,19,21978,1281,36,110,63,413,42,2834,44193,22.44
+Client_184,Beauty,Facebook,Reel,Tips & Tricks,Friday,16,19065,1079,25,179,156,331,14,4592,17507,21.28
+Client_185,Fashion,YouTube Shorts,Reel,Customer Story,Wednesday,10,30780,2089,110,151,191,913,35,1053,11387,37.19
+Client_186,Food,Instagram,Reel,Promotion,Friday,12,26772,1823,80,242,180,236,9,1147,8621,32.33
+Client_187,Food,YouTube Shorts,Carousel,Promotion,Friday,18,28894,2004,154,162,134,812,35,950,21248,37.83
+Client_188,Fashion,Instagram,Static,Behind the Scenes,Saturday,8,8294,639,42,91,37,67,8,2701,8967,11.32
+Client_189,Fashion,Facebook,Carousel,Customer Story,Friday,9,14670,1268,63,147,58,388,19,1788,10551,21.6
+Client_190,Fitness,YouTube Shorts,Static,Product Education,Tuesday,19,5954,638,13,35,51,166,8,789,9963,8.03
+Client_191,Food,Facebook,Reel,Promotion,Saturday,13,20666,1683,45,231,77,218,20,876,13764,27.35
+Client_192,Education,Facebook,Carousel,Customer Story,Monday,16,3130,150,8,13,16,51,5,4541,6805,1.77
+Client_193,Beauty,YouTube Shorts,Reel,Behind the Scenes,Monday,22,17042,1341,77,187,55,227,27,3582,32732,25.53
+Client_194,Fashion,Instagram,Static,Behind the Scenes,Thursday,15,5569,307,6,24,40,85,11,4255,11860,4.86
+Client_195,Fitness,Instagram,Static,Behind the Scenes,Saturday,21,14337,1162,53,203,76,165,11,3719,13309,21.52
+Client_196,Technology,Facebook,Carousel,Behind the Scenes,Monday,11,15778,628,16,68,46,126,9,2200,8933,9.31
+Client_197,Education,Facebook,Reel,Product Education,Tuesday,20,20673,1916,42,304,145,150,8,3414,9446,31.75
+Client_198,Fashion,YouTube Shorts,Carousel,Customer Story,Sunday,10,20817,1666,88,103,85,517,23,1005,27120,25.94
+Client_199,Food,Instagram,Carousel,Customer Story,Saturday,18,7753,413,28,21,19,213,17,1555,8564,7.14
+Client_200,Fashion,Instagram,Carousel,Product Education,Tuesday,22,23805,1560,33,216,92,246,12,2792,9689,24.42
+Client_201,Fashion,YouTube Shorts,Static,Tips & Tricks,Tuesday,18,15600,1707,83,104,140,241,25,4807,17078,27.97
+Client_202,Fashion,Facebook,Static,Customer Story,Thursday,16,6908,519,22,38,38,72,9,2801,6645,7.54
+Client_203,Fitness,Facebook,Static,Behind the Scenes,Tuesday,9,11009,594,40,100,27,329,18,3681,12457,12.41
+Client_204,Food,Instagram,Static,Customer Story,Sunday,19,13404,436,27,75,44,255,13,4532,12996,9.32
+Client_205,Food,Facebook,Reel,Product Education,Monday,11,8230,636,12,107,39,67,7,3150,2349,9.99
+Client_206,Food,YouTube Shorts,Static,Behind the Scenes,Sunday,9,14364,1672,70,288,139,108,7,1617,6455,30.68
+Client_207,Beauty,Facebook,Static,Customer Story,Tuesday,19,11490,1158,38,146,68,145,16,1543,6910,19.1
+Client_208,Beauty,YouTube Shorts,Carousel,Tips & Tricks,Monday,10,26033,1298,70,222,72,615,36,3117,15882,27.92
+Client_209,Beauty,YouTube Shorts,Static,Customer Story,Thursday,8,11340,1047,42,159,124,70,5,3937,5491,18.99
+Client_210,Education,Facebook,Carousel,Tips & Tricks,Thursday,9,15922,1410,86,100,67,416,27,3110,14816,23.86
+Client_211,Fashion,Facebook,Reel,Promotion,Tuesday,19,14952,903,71,150,106,235,25,4056,10688,21.82
+Client_212,Fashion,Facebook,Reel,Behind the Scenes,Thursday,19,18536,1457,86,129,73,274,26,4521,11028,25.27
+Client_213,Technology,Instagram,Carousel,Product Education,Wednesday,21,24667,955,30,126,140,415,18,3756,17182,18.89
+Client_214,Beauty,Facebook,Reel,Tips & Tricks,Thursday,10,21883,1384,64,116,126,233,14,1004,6448,22.74
+Client_215,Fashion,YouTube Shorts,Carousel,Tips & Tricks,Thursday,20,24140,856,37,100,125,535,76,2430,58460,26.04
+Client_216,Fashion,Facebook,Static,Product Education,Friday,17,12891,1172,67,76,144,120,17,2235,19887,20.91
+Client_217,Food,Instagram,Carousel,Product Education,Saturday,14,11616,503,28,46,60,292,11,3755,11636,9.03
+Client_218,Technology,YouTube Shorts,Carousel,Product Education,Sunday,19,19749,792,22,97,82,575,24,1365,20651,15.31
+Client_219,Technology,YouTube Shorts,Carousel,Promotion,Wednesday,14,25954,1883,57,192,203,571,44,3742,53755,35.69
+Client_220,Beauty,Instagram,Reel,Promotion,Wednesday,22,21505,2227,85,192,209,481,20,2367,10201,36.45
+Client_221,Beauty,Facebook,Carousel,Customer Story,Saturday,14,13576,636,20,99,77,325,43,960,34713,16.84
+Client_222,Fashion,Facebook,Static,Tips & Tricks,Thursday,10,13924,453,14,71,59,156,13,3452,14254,8.99
+Client_223,Technology,Facebook,Carousel,Tips & Tricks,Thursday,18,14160,733,36,79,106,238,22,3320,11292,15.49
+Client_224,Beauty,YouTube Shorts,Reel,Customer Story,Monday,14,30938,3099,101,244,200,314,33,4704,8982,47.5
+Client_225,Education,Instagram,Static,Behind the Scenes,Friday,20,4221,357,27,50,42,50,6,3356,6384,6.71
+Client_226,Food,Facebook,Carousel,Tips & Tricks,Sunday,17,12576,385,30,67,50,239,24,2815,14205,10.69
+Client_227,Education,Instagram,Carousel,Customer Story,Saturday,13,14072,1322,97,117,74,339,46,3810,45214,27.57
+Client_228,Beauty,Instagram,Static,Product Education,Saturday,15,11748,780,50,98,116,298,21,2321,24371,17.5
+Client_229,Beauty,Facebook,Static,Customer Story,Friday,12,13418,1461,45,91,79,153,19,1999,20723,20.63
+Client_230,Beauty,Instagram,Reel,Customer Story,Tuesday,19,18827,1194,65,131,63,119,12,1083,10389,19.68
+Client_231,Fitness,Instagram,Static,Promotion,Friday,12,14828,628,20,64,64,410,34,3091,39999,13.77
+Client_232,Fashion,Facebook,Carousel,Behind the Scenes,Wednesday,18,3077,168,11,12,20,53,6,1221,5844,2.32
+Client_233,Beauty,Facebook,Carousel,Promotion,Thursday,14,3618,173,7,8,13,93,4,533,5602,1.46
+Client_234,Food,YouTube Shorts,Carousel,Customer Story,Tuesday,9,25289,1455,34,81,210,414,38,4793,26162,26.47
+Client_235,Beauty,Instagram,Carousel,Promotion,Wednesday,20,11174,354,11,63,22,61,5,1508,3431,5.43
+Client_236,Education,YouTube Shorts,Carousel,Tips & Tricks,Friday,8,27691,1100,77,61,58,446,19,2570,15219,18.12
+Client_237,Food,YouTube Shorts,Static,Product Education,Wednesday,14,18439,1001,56,67,131,140,16,1464,9557,18.11
+Client_238,Fashion,Facebook,Reel,Tips & Tricks,Tuesday,20,20778,2443,101,252,140,388,54,4437,33673,44.24
+Client_239,Fashion,Instagram,Static,Product Education,Monday,21,19050,827,21,96,98,143,8,2393,8161,13.52
+Client_240,Technology,Facebook,Reel,Product Education,Sunday,10,21203,1323,80,139,69,557,76,579,86405,31.78
+Client_241,Beauty,YouTube Shorts,Reel,Customer Story,Wednesday,22,18488,2016,51,314,121,277,40,2726,47359,37.54
+Client_242,Beauty,Facebook,Carousel,Behind the Scenes,Monday,10,16833,662,49,74,67,268,27,3437,23888,15.13
+Client_243,Beauty,YouTube Shorts,Reel,Promotion,Thursday,9,9382,334,19,17,45,170,20,2334,21471,7.12
+Client_244,Fitness,YouTube Shorts,Static,Tips & Tricks,Monday,14,13863,1243,72,86,162,378,39,595,36697,26.01
+Client_245,Fitness,Facebook,Carousel,Behind the Scenes,Monday,20,8253,493,18,57,49,119,15,1145,14438,9.03
+Client_246,Fitness,Facebook,Reel,Promotion,Thursday,13,13935,440,19,24,44,357,44,2995,55248,11.8
+Client_247,Fitness,Instagram,Static,Promotion,Wednesday,13,5422,574,22,85,60,124,9,4207,4092,10.29
+Client_248,Beauty,Instagram,Reel,Customer Story,Wednesday,21,18208,1158,30,192,109,465,55,3852,21828,27.45
+Client_249,Fitness,Instagram,Reel,Product Education,Sunday,14,15080,1425,37,148,202,391,39,4190,32829,28.71
+Client_250,Fitness,Instagram,Carousel,Product Education,Friday,19,6591,695,34,80,98,62,6,1551,5309,12.43
+Client_251,Beauty,YouTube Shorts,Static,Customer Story,Friday,22,20764,2334,153,199,340,607,51,1592,23322,50.28
+Client_252,Fitness,YouTube Shorts,Static,Tips & Tricks,Wednesday,21,13028,1225,93,161,76,268,17,3328,21367,23.8
+Client_253,Beauty,YouTube Shorts,Reel,Tips & Tricks,Friday,19,12226,1203,64,151,172,278,30,4873,19720,26.47
+Client_254,Fashion,YouTube Shorts,Reel,Product Education,Thursday,10,9817,471,30,33,33,110,14,2917,10845,8.09
+Client_255,Fashion,Facebook,Carousel,Product Education,Friday,21,17169,1662,89,134,209,428,27,884,35471,31.46
+Client_256,Education,Facebook,Static,Customer Story,Friday,8,12147,586,42,94,51,129,13,3512,18119,12.22
+Client_257,Fitness,YouTube Shorts,Static,Behind the Scenes,Sunday,19,16564,761,46,56,44,295,22,4010,16329,13.59
+Client_258,Technology,Instagram,Reel,Tips & Tricks,Sunday,12,6480,608,17,42,45,40,5,2967,8451,7.65
+Client_259,Fitness,Facebook,Reel,Customer Story,Friday,11,14411,1452,42,175,122,197,26,3218,18269,25.74
+Client_260,Technology,Instagram,Static,Tips & Tricks,Thursday,16,4230,258,8,34,36,46,1,3129,1568,3.32
+Client_261,Education,Facebook,Static,Customer Story,Monday,22,13175,1005,50,113,72,280,19,1174,7983,18.07
+Client_262,Fitness,YouTube Shorts,Reel,Product Education,Tuesday,18,35573,2425,63,290,284,1046,128,1090,131051,58.88
+Client_263,Fashion,Facebook,Static,Customer Story,Monday,9,3111,315,16,39,20,35,2,3813,3977,4.07
+Client_264,Fashion,Facebook,Static,Product Education,Friday,8,12308,419,29,40,39,150,16,1208,12193,8.37
+Client_265,Education,Facebook,Static,Product Education,Thursday,10,5281,513,34,82,37,110,7,3556,6361,9.43
+Client_266,Fitness,Instagram,Reel,Product Education,Monday,17,30688,2432,61,188,295,710,39,4698,16723,41.94
+Client_267,Food,Instagram,Static,Customer Story,Tuesday,9,8753,933,66,159,139,144,13,2881,12732,21.24
+Client_268,Technology,Instagram,Reel,Tips & Tricks,Thursday,13,20877,1857,48,242,258,270,22,3004,25905,35.05
+Client_269,Food,YouTube Shorts,Static,Customer Story,Sunday,13,4926,286,19,40,31,58,4,3216,8523,4.71
+Client_270,Education,Facebook,Carousel,Customer Story,Thursday,16,5879,497,35,80,27,108,6,1126,6581,8.84
+Client_271,Fashion,YouTube Shorts,Static,Product Education,Sunday,17,20267,996,22,83,137,374,40,1717,28175,20.46
+Client_272,Food,YouTube Shorts,Static,Customer Story,Tuesday,15,7173,471,23,64,62,180,18,1858,22661,10.26
+Client_273,Food,Facebook,Reel,Behind the Scenes,Friday,17,18821,1383,57,108,129,123,9,850,10099,21.36
+Client_274,Fitness,Facebook,Carousel,Promotion,Thursday,22,3653,216,13,25,28,94,5,4959,5589,3.35
+Client_275,Education,YouTube Shorts,Carousel,Customer Story,Friday,18,14243,909,67,106,71,380,33,4449,43163,20.22
+Client_276,Fashion,YouTube Shorts,Reel,Promotion,Tuesday,11,33856,1871,54,131,198,860,94,3896,104225,40.73
+Client_277,Beauty,Instagram,Carousel,Promotion,Thursday,11,24359,2557,54,142,263,219,23,821,31414,37.41
+Client_278,Food,Instagram,Reel,Customer Story,Tuesday,16,22856,1997,145,288,260,655,36,4361,44913,45.7
+Client_279,Food,Instagram,Carousel,Tips & Tricks,Tuesday,20,24092,2074,105,148,239,675,68,1063,36078,43.18
+Client_280,Education,Instagram,Reel,Product Education,Tuesday,16,26907,2808,158,205,390,538,72,4853,56042,59.07
+Client_281,Fashion,Facebook,Static,Behind the Scenes,Friday,16,14156,1251,64,122,56,258,14,4449,17935,19.82
+Client_282,Technology,YouTube Shorts,Static,Tips & Tricks,Monday,14,17307,1712,127,104,181,321,19,544,18602,30.96
+Client_283,Fitness,YouTube Shorts,Reel,Tips & Tricks,Monday,14,20438,1365,36,143,142,235,22,3495,21529,23.59
+Client_284,Beauty,Facebook,Reel,Promotion,Friday,20,13630,863,45,71,63,185,21,1631,24600,15.25
+Client_285,Beauty,Instagram,Carousel,Behind the Scenes,Monday,11,21657,2210,125,307,101,318,33,1246,37259,41.47
+Client_286,Education,YouTube Shorts,Carousel,Product Education,Monday,12,8622,731,46,124,61,184,11,970,12897,14.61
+Client_287,Beauty,Facebook,Carousel,Product Education,Tuesday,21,7685,253,14,29,16,70,2,2459,1842,3.01
+Client_288,Food,Instagram,Carousel,Promotion,Wednesday,18,17948,862,18,121,121,336,39,3351,25860,19.93
+Client_289,Food,YouTube Shorts,Reel,Promotion,Thursday,17,14668,977,25,58,70,420,53,2611,65197,19.55
+Client_290,Fitness,Facebook,Static,Promotion,Thursday,17,12492,1226,95,134,111,245,8,1452,4665,22.66
+Client_291,Education,YouTube Shorts,Reel,Behind the Scenes,Sunday,13,28655,2241,139,188,160,429,51,3301,21219,42.87
+Client_292,Food,Facebook,Carousel,Customer Story,Tuesday,22,7408,853,52,143,80,74,8,2674,5565,16.68
+Client_293,Food,Instagram,Static,Customer Story,Tuesday,20,6796,617,36,80,76,125,4,4450,5103,10.99
+Client_294,Education,YouTube Shorts,Carousel,Promotion,Tuesday,20,19037,951,51,54,121,322,30,4616,21375,18.81
+Client_295,Beauty,Instagram,Carousel,Product Education,Saturday,16,20075,617,37,61,31,281,37,2033,32160,14.04
+Client_296,Food,Facebook,Carousel,Tips & Tricks,Wednesday,13,11171,546,33,53,73,133,6,1574,6906,9.54
+Client_297,Fashion,YouTube Shorts,Carousel,Behind the Scenes,Friday,14,10779,1099,70,122,45,167,7,4735,8158,17.63
+Client_298,Education,Facebook,Carousel,Tips & Tricks,Sunday,17,9527,877,20,136,81,197,16,3241,11213,15.96
+Client_299,Technology,YouTube Shorts,Static,Customer Story,Wednesday,8,14003,1513,117,114,156,297,15,2831,11858,27.86
+Client_300,Beauty,YouTube Shorts,Carousel,Promotion,Monday,14,26699,3099,223,413,440,415,42,3815,47582,69.44
+Client_301,Fashion,Instagram,Carousel,Behind the Scenes,Wednesday,13,14547,1228,53,203,154,414,49,4767,38230,30.19
+Client_302,Food,Instagram,Reel,Behind the Scenes,Saturday,11,16556,1613,52,163,81,470,40,940,14292,28.0
+Client_303,Fitness,Instagram,Reel,Customer Story,Friday,10,9702,561,19,48,61,80,10,734,5773,8.88
+Client_304,Technology,Facebook,Carousel,Tips & Tricks,Wednesday,16,5213,409,22,44,50,140,11,4872,9081,7.6
+Client_305,Education,YouTube Shorts,Reel,Product Education,Thursday,12,18141,798,16,94,98,152,9,4883,6351,13.09
+Client_306,Education,Facebook,Reel,Promotion,Sunday,12,8485,673,21,110,59,95,11,3692,15177,12.13
+Client_307,Food,Facebook,Reel,Promotion,Saturday,11,19407,1992,121,173,242,489,38,1060,17687,39.91
+Client_308,Technology,Instagram,Static,Promotion,Friday,15,11133,826,32,57,121,61,8,2811,5224,13.49
+Client_309,Beauty,Facebook,Static,Product Education,Tuesday,9,2592,128,5,19,12,37,4,759,3009,1.36
+Client_310,Food,Instagram,Carousel,Promotion,Monday,16,20405,2257,79,224,93,599,69,3652,75319,41.4
+Client_311,Food,YouTube Shorts,Reel,Behind the Scenes,Thursday,19,34778,4117,199,570,306,454,47,845,52066,77.9
+Client_312,Fitness,Instagram,Carousel,Promotion,Saturday,12,11511,1240,41,80,135,150,7,2761,6916,18.22
+Client_313,Education,Instagram,Reel,Product Education,Friday,20,25716,1130,74,93,107,569,40,991,15352,24.0
+Client_314,Beauty,Instagram,Static,Tips & Tricks,Sunday,9,7298,426,22,57,33,199,23,674,25059,9.5
+Client_315,Technology,YouTube Shorts,Reel,Customer Story,Monday,15,19571,1543,76,190,153,256,22,1813,11391,29.31
+Client_316,Food,Facebook,Carousel,Customer Story,Friday,13,3011,227,14,37,24,42,4,3127,4470,3.65
+Client_317,Beauty,YouTube Shorts,Carousel,Behind the Scenes,Friday,18,24070,1055,39,108,79,178,19,858,22058,17.83
+Client_318,Food,Instagram,Reel,Product Education,Thursday,11,10293,903,39,102,98,203,7,2308,6670,15.22
+Client_319,Fashion,Instagram,Static,Promotion,Sunday,9,16269,576,30,99,49,231,26,2677,20899,13.53
+Client_320,Beauty,Instagram,Carousel,Product Education,Tuesday,16,8182,415,17,31,46,157,22,3901,23172,8.44
+Client_321,Beauty,YouTube Shorts,Carousel,Promotion,Saturday,18,9411,423,13,43,32,84,12,4129,9901,6.73
+Client_322,Fitness,Facebook,Carousel,Promotion,Sunday,18,16535,977,33,118,79,310,36,3449,29333,19.84
+Client_323,Education,Instagram,Static,Product Education,Wednesday,17,4427,528,20,47,34,116,3,2760,8108,6.77
+Client_324,Fitness,YouTube Shorts,Static,Tips & Tricks,Tuesday,9,14123,622,22,103,41,161,10,3775,10101,10.86
+Client_325,Beauty,Instagram,Static,Customer Story,Sunday,15,8532,795,54,49,87,50,6,3625,2438,12.94
+Client_326,Technology,Facebook,Carousel,Promotion,Sunday,9,15249,1623,122,214,177,96,8,3115,11043,32.1
+Client_327,Food,Facebook,Static,Behind the Scenes,Tuesday,8,8240,673,17,71,85,71,4,4398,3743,10.23
+Client_328,Fitness,Facebook,Carousel,Product Education,Thursday,16,15678,654,18,80,61,334,17,4794,10519,11.72
+Client_329,Fashion,Facebook,Carousel,Customer Story,Saturday,22,4467,404,18,38,30,88,2,2997,3710,5.12
+Client_330,Fitness,Facebook,Static,Behind the Scenes,Thursday,8,5016,319,20,51,16,31,4,1709,6912,4.95
+Client_331,Fashion,Facebook,Static,Product Education,Wednesday,15,2697,131,6,10,12,30,2,1657,2072,0.82
+Client_332,Education,YouTube Shorts,Static,Tips & Tricks,Monday,12,12244,588,36,50,53,350,13,2722,15014,10.38
+Client_333,Fashion,Instagram,Carousel,Promotion,Tuesday,14,21663,2412,118,307,119,216,31,676,11016,42.82
+Client_334,Fitness,Facebook,Carousel,Promotion,Thursday,19,3301,302,12,26,45,97,6,1007,7450,4.64
+Client_335,Education,Instagram,Static,Customer Story,Tuesday,10,12959,1154,29,115,168,263,27,2363,20248,22.16
+Client_336,Fitness,Instagram,Carousel,Customer Story,Friday,13,19718,958,27,115,122,523,35,4791,42442,20.39
+Client_337,Education,Instagram,Static,Tips & Tricks,Tuesday,13,5777,666,18,60,91,133,16,3891,13221,11.87
+Client_338,Education,YouTube Shorts,Static,Customer Story,Tuesday,20,8248,384,25,49,26,158,9,2402,4587,6.73
+Client_339,Technology,Instagram,Static,Promotion,Tuesday,16,19852,1756,54,176,161,180,10,3847,10442,27.52
+Client_340,Technology,Facebook,Reel,Behind the Scenes,Sunday,11,7376,796,39,73,71,82,6,842,8348,12.42
+Client_341,Beauty,Facebook,Carousel,Tips & Tricks,Saturday,17,11784,1033,64,56,53,193,26,2512,24712,17.58
+Client_342,Education,YouTube Shorts,Reel,Tips & Tricks,Thursday,16,19426,1351,98,203,96,177,11,946,14751,26.23
+Client_343,Food,Facebook,Static,Promotion,Monday,19,3883,388,29,54,21,59,4,1965,7691,6.26
+Client_344,Beauty,Instagram,Carousel,Product Education,Wednesday,13,10373,396,24,52,19,235,27,4691,24961,9.4
+Client_345,Education,YouTube Shorts,Carousel,Product Education,Sunday,10,27611,2972,88,204,370,173,11,4155,7475,46.18
+Client_346,Fashion,Instagram,Reel,Product Education,Friday,20,16616,1242,61,192,132,288,16,4397,14783,24.68
+Client_347,Education,Instagram,Static,Tips & Tricks,Monday,11,18348,1588,109,122,95,116,8,1690,9257,25.3
+Client_348,Beauty,YouTube Shorts,Static,Customer Story,Wednesday,22,7654,516,15,70,55,170,17,1953,16914,9.97
+Client_349,Technology,Instagram,Reel,Customer Story,Wednesday,13,21771,2139,151,125,196,175,23,3196,21536,37.41
+Client_350,Fitness,Instagram,Static,Behind the Scenes,Friday,8,6864,810,41,49,96,138,17,2852,16666,14.23
+Client_351,Technology,Facebook,Static,Tips & Tricks,Friday,13,10451,780,49,89,100,283,16,2879,7180,15.87
+Client_352,Fashion,Instagram,Carousel,Product Education,Saturday,21,11793,1414,63,132,143,246,7,2148,8999,22.92
+Client_353,Technology,Instagram,Carousel,Customer Story,Friday,16,15614,628,25,63,64,452,58,2089,36872,17.69
+Client_354,Beauty,Facebook,Carousel,Product Education,Saturday,10,5545,396,28,65,35,140,19,958,25263,9.36
+Client_355,Technology,YouTube Shorts,Static,Customer Story,Friday,16,19936,1828,124,302,144,582,37,755,25162,40.29
+Client_356,Beauty,YouTube Shorts,Reel,Tips & Tricks,Friday,14,12285,1324,86,187,98,71,5,4571,7686,23.89
+Client_357,Technology,Facebook,Carousel,Behind the Scenes,Friday,12,4838,486,32,82,43,27,2,4596,2372,8.53
+Client_358,Technology,Facebook,Static,Tips & Tricks,Wednesday,20,4277,444,33,61,24,98,8,4779,2977,7.87
+Client_359,Technology,Instagram,Static,Tips & Tricks,Sunday,9,12736,500,32,73,21,305,32,2219,20138,12.22
+Client_360,Food,Facebook,Carousel,Tips & Tricks,Wednesday,20,13995,763,22,49,110,265,11,4944,11188,12.26
+Client_361,Technology,Facebook,Reel,Customer Story,Friday,11,5208,443,17,47,24,87,9,1367,6218,6.56
+Client_362,Fashion,Facebook,Carousel,Behind the Scenes,Saturday,17,13313,1237,70,112,160,303,33,4870,14704,25.79
+Client_363,Fitness,Instagram,Reel,Promotion,Monday,15,18962,1780,85,142,115,503,52,3477,35354,33.35
+Client_364,Beauty,YouTube Shorts,Carousel,Customer Story,Thursday,15,21575,866,42,138,61,295,29,4661,13618,18.63
+Client_365,Beauty,Instagram,Carousel,Tips & Tricks,Saturday,9,14899,984,44,128,98,437,33,3291,20120,21.02
+Client_366,Education,Facebook,Static,Customer Story,Friday,19,4668,421,27,60,55,36,3,3165,3253,7.48
+Client_367,Education,Instagram,Carousel,Promotion,Monday,17,8563,851,36,97,95,62,7,501,8376,14.39
+Client_368,Beauty,Instagram,Carousel,Tips & Tricks,Wednesday,14,23937,1161,84,103,147,526,73,4061,74725,31.44
+Client_369,Fashion,YouTube Shorts,Reel,Tips & Tricks,Friday,14,19548,696,51,122,27,371,54,1398,63385,20.1
+Client_370,Fashion,Instagram,Carousel,Tips & Tricks,Thursday,18,15424,1026,47,79,60,130,12,3451,16737,15.41
+Client_371,Food,Facebook,Static,Behind the Scenes,Tuesday,8,10898,468,34,63,68,91,4,3906,8255,8.91
+Client_372,Beauty,YouTube Shorts,Carousel,Tips & Tricks,Tuesday,15,24089,2500,107,198,216,124,11,2439,14879,38.86
+Client_373,Technology,Facebook,Static,Tips & Tricks,Wednesday,8,9846,920,24,103,106,84,9,2789,10768,15.04
+Client_374,Fashion,YouTube Shorts,Static,Product Education,Tuesday,15,21411,1681,92,218,234,393,12,4219,13131,33.24
+Client_375,Fitness,YouTube Shorts,Carousel,Promotion,Wednesday,20,11488,381,28,56,45,219,8,4376,8121,7.56
+Client_376,Fitness,Instagram,Static,Customer Story,Sunday,19,4715,176,8,28,12,39,2,2604,1441,1.92
+Client_377,Fitness,Instagram,Static,Behind the Scenes,Saturday,15,13692,732,45,82,93,363,25,1191,14828,16.18
+Client_378,Food,Facebook,Carousel,Promotion,Tuesday,18,14894,671,36,106,30,172,22,930,13063,13.66
+Client_379,Education,Facebook,Carousel,Promotion,Saturday,20,6828,624,27,52,61,108,6,4176,6432,9.36
+Client_380,Fitness,YouTube Shorts,Reel,Product Education,Friday,18,25185,2139,126,182,149,631,38,3704,29416,38.8
+Client_381,Beauty,YouTube Shorts,Static,Behind the Scenes,Friday,13,19155,592,12,34,50,347,38,3379,20332,12.14
+Client_382,Technology,Instagram,Reel,Product Education,Friday,9,8578,947,31,121,50,248,10,1564,10977,14.74
+Client_383,Food,Instagram,Static,Behind the Scenes,Wednesday,12,16240,1420,107,122,123,447,54,3149,29028,31.79
+Client_384,Fashion,Facebook,Reel,Promotion,Thursday,13,9037,415,10,73,25,133,14,1388,9986,7.65
+Client_385,Education,Instagram,Static,Product Education,Thursday,19,10788,394,21,32,35,295,14,507,7230,7.0
+Client_386,Technology,Instagram,Static,Customer Story,Thursday,17,4096,469,23,50,62,100,12,4924,5799,8.84
+Client_387,Education,YouTube Shorts,Carousel,Product Education,Friday,16,28342,1622,37,291,180,400,52,3285,21029,36.57
+Client_388,Technology,YouTube Shorts,Reel,Behind the Scenes,Friday,8,15322,871,37,55,100,262,35,4087,36622,17.53
+Client_389,Food,Instagram,Reel,Product Education,Saturday,17,16017,571,29,51,56,414,34,634,12537,13.17
+Client_390,Fashion,Facebook,Static,Product Education,Thursday,9,12978,1168,55,161,159,113,11,1090,4316,22.73
+Client_391,Education,YouTube Shorts,Reel,Promotion,Friday,8,34073,1422,43,80,104,846,71,1898,83296,28.53
+Client_392,Fashion,Instagram,Reel,Promotion,Friday,20,15283,1044,71,185,119,200,29,4971,13944,25.13
+Client_393,Food,Instagram,Static,Behind the Scenes,Wednesday,9,7164,703,21,68,40,79,7,1592,5545,9.68
+Client_394,Food,Instagram,Carousel,Product Education,Monday,8,10879,964,70,100,124,264,29,2188,13703,21.61
+Client_395,Fitness,Facebook,Carousel,Behind the Scenes,Tuesday,17,12769,1207,68,74,158,159,12,2430,6314,20.83
+Client_396,Fitness,Instagram,Static,Customer Story,Sunday,20,18148,1302,74,100,59,141,6,4386,5998,18.89
+Client_397,Food,YouTube Shorts,Reel,Product Education,Saturday,13,25303,1331,75,220,119,192,6,4902,3874,25.25
+Client_398,Fashion,Facebook,Static,Product Education,Monday,22,11855,988,39,74,113,155,19,3171,9980,17.16
+Client_399,Food,YouTube Shorts,Carousel,Behind the Scenes,Thursday,22,21433,1771,41,188,112,433,22,3559,12307,27.62
+Client_400,Beauty,Instagram,Static,Customer Story,Wednesday,11,12804,1181,27,80,157,210,10,3314,7167,18.07
+Client_401,Fitness,Instagram,Static,Tips & Tricks,Tuesday,17,18489,698,49,79,104,365,47,2786,15915,19.75
+Client_402,Beauty,Instagram,Reel,Customer Story,Thursday,17,15358,1768,132,294,151,93,13,4630,7179,36.59
+Client_403,Fitness,Facebook,Carousel,Product Education,Thursday,15,4361,426,26,43,27,60,3,1243,4728,6.0
+Client_404,Beauty,Facebook,Reel,Promotion,Sunday,17,4248,304,8,42,18,113,11,511,13020,4.93
+Client_405,Education,YouTube Shorts,Carousel,Tips & Tricks,Monday,12,14840,1377,78,171,86,328,34,3250,34551,27.3
+Client_406,Fitness,YouTube Shorts,Carousel,Product Education,Monday,14,26287,885,37,118,104,499,61,1633,38066,23.96
+Client_407,Fitness,Instagram,Static,Promotion,Saturday,20,19207,938,60,74,73,224,25,2770,8144,17.73
+Client_408,Technology,Facebook,Carousel,Promotion,Friday,16,10703,833,57,139,74,152,16,1037,10822,17.72
+Client_409,Fashion,Instagram,Carousel,Behind the Scenes,Wednesday,9,8583,344,9,23,21,247,8,3912,12019,4.25
+Client_410,Food,Facebook,Carousel,Promotion,Thursday,19,7776,277,20,22,39,164,13,3308,14646,5.68
+Client_411,Education,YouTube Shorts,Static,Tips & Tricks,Sunday,16,12771,1035,76,92,131,136,10,2860,10767,19.52
+Client_412,Food,Facebook,Carousel,Promotion,Tuesday,17,14662,816,63,129,94,317,15,2448,5872,18.06
+Client_413,Technology,YouTube Shorts,Reel,Promotion,Wednesday,13,30538,2859,171,506,160,495,72,4871,41171,63.89
+Client_414,Fashion,Facebook,Carousel,Behind the Scenes,Thursday,22,5556,651,34,75,72,68,9,1704,14242,11.59
+Client_415,Beauty,Facebook,Carousel,Product Education,Saturday,15,5284,420,16,42,55,85,3,950,4214,6.18
+Client_416,Fitness,YouTube Shorts,Reel,Customer Story,Tuesday,8,25745,2341,181,414,195,444,45,4690,16772,54.28
+Client_417,Education,Instagram,Static,Promotion,Wednesday,14,13772,840,32,90,85,143,19,3904,23992,15.34
+Client_418,Technology,Instagram,Static,Promotion,Saturday,22,14857,1245,35,111,185,269,18,3578,6174,22.2
+Client_419,Education,YouTube Shorts,Carousel,Promotion,Tuesday,16,24609,2410,67,178,197,463,16,2973,22458,35.28
+Client_420,Technology,Facebook,Static,Promotion,Tuesday,8,4418,251,14,33,13,95,6,1969,6522,3.65
+Client_421,Fashion,Instagram,Carousel,Promotion,Monday,17,16854,1363,98,179,125,376,16,4698,20712,27.11
+Client_422,Fashion,Facebook,Reel,Tips & Tricks,Monday,10,13191,556,16,47,47,366,26,2874,18586,10.65
+Client_423,Beauty,Instagram,Static,Behind the Scenes,Sunday,18,8803,738,22,67,55,229,28,2723,29597,13.63
+Client_424,Fashion,YouTube Shorts,Static,Customer Story,Sunday,10,18383,1017,67,105,143,166,9,4623,5827,19.53
+Client_425,Fitness,YouTube Shorts,Static,Tips & Tricks,Sunday,16,7787,526,39,34,28,42,3,3470,4796,7.24
+Client_426,Fitness,YouTube Shorts,Carousel,Behind the Scenes,Saturday,12,9886,494,35,33,32,80,3,1143,2970,6.85
+Client_427,Fashion,Instagram,Carousel,Promotion,Monday,11,8532,650,15,42,44,56,6,1290,7320,7.97
+Client_428,Fitness,Instagram,Static,Behind the Scenes,Tuesday,18,13215,569,36,48,59,182,24,2481,23079,12.03
+Client_429,Fashion,Instagram,Static,Product Education,Friday,11,9020,1002,52,176,50,93,8,4388,9828,18.05
+Client_430,Food,Facebook,Static,Product Education,Tuesday,21,7375,363,12,23,53,59,2,1613,4473,4.63
+Client_431,Beauty,Facebook,Static,Product Education,Monday,13,3916,217,12,19,31,63,6,2880,10255,3.33
+Client_432,Food,Instagram,Carousel,Customer Story,Tuesday,8,21110,1386,71,191,73,313,35,1333,36697,27.42
+Client_433,Fashion,Facebook,Reel,Customer Story,Tuesday,17,6263,660,41,56,78,122,7,3778,8195,11.28
+Client_434,Beauty,YouTube Shorts,Carousel,Promotion,Friday,12,20897,830,29,95,90,174,7,932,8258,13.59
+Client_435,Education,YouTube Shorts,Reel,Behind the Scenes,Thursday,17,19900,1710,44,102,209,481,60,2154,37078,33.05
+Client_436,Education,YouTube Shorts,Carousel,Tips & Tricks,Wednesday,20,6579,761,16,80,107,95,6,3582,7983,12.13
+Client_437,Fashion,Instagram,Reel,Tips & Tricks,Saturday,21,18662,835,38,75,69,449,44,4518,45236,18.46
+Client_438,Beauty,YouTube Shorts,Static,Promotion,Thursday,16,6260,408,20,71,44,86,12,3125,3974,8.4
+Client_439,Fitness,Instagram,Reel,Customer Story,Wednesday,20,30168,1831,47,173,145,415,45,2528,24606,32.41
+Client_440,Fitness,Instagram,Static,Product Education,Sunday,12,7000,222,8,24,29,134,18,2684,8707,5.08
+Client_441,Fitness,Instagram,Carousel,Promotion,Friday,14,15565,1599,41,220,123,273,33,3281,16313,29.48
+Client_442,Technology,Facebook,Reel,Promotion,Saturday,21,20960,1032,37,91,106,526,55,1253,58856,23.25
+Client_443,Fashion,YouTube Shorts,Carousel,Customer Story,Monday,17,19995,977,66,131,71,501,41,4923,25009,22.78
+Client_444,Education,Facebook,Carousel,Tips & Tricks,Friday,15,5958,515,26,38,48,128,16,4328,12748,9.12
+Client_445,Fitness,Facebook,Static,Product Education,Friday,11,8461,436,28,65,57,129,17,1027,16950,10.03
+Client_446,Education,Facebook,Carousel,Behind the Scenes,Wednesday,18,6868,353,10,18,45,87,7,4072,5077,4.78
+Client_447,Food,Instagram,Carousel,Behind the Scenes,Monday,12,14102,646,45,113,60,77,10,1187,10638,13.34
+Client_448,Technology,Instagram,Carousel,Customer Story,Saturday,18,7959,842,28,104,80,63,6,4802,7108,13.48
+Client_449,Fashion,Instagram,Static,Product Education,Sunday,20,12215,1176,80,172,168,127,5,2253,6255,24.02
+Client_450,Education,Facebook,Static,Product Education,Thursday,16,11569,676,30,93,98,312,44,3473,35396,18.31
+Client_451,Technology,Instagram,Static,Tips & Tricks,Monday,21,5432,280,14,25,40,76,9,1499,9109,4.87
+Client_452,Education,Facebook,Reel,Promotion,Wednesday,12,20598,1169,83,82,103,266,33,3828,35191,23.25
+Client_453,Technology,Instagram,Carousel,Promotion,Saturday,14,15902,1731,119,272,202,280,20,4986,22776,37.38
+Client_454,Education,YouTube Shorts,Reel,Product Education,Saturday,18,25661,2596,73,265,283,329,13,1792,10795,42.28
+Client_455,Beauty,YouTube Shorts,Reel,Tips & Tricks,Saturday,14,27093,2942,82,213,309,357,22,1191,17839,45.73
+Client_456,Food,Facebook,Carousel,Tips & Tricks,Tuesday,8,12150,1033,34,63,93,140,18,907,15393,16.04
+Client_457,Fitness,Facebook,Reel,Product Education,Wednesday,10,6152,582,26,98,52,134,5,2164,4405,10.19
+Client_458,Technology,YouTube Shorts,Carousel,Promotion,Tuesday,14,13063,1561,57,215,134,198,9,2877,6591,26.64
+Client_459,Fitness,Facebook,Reel,Customer Story,Friday,18,5505,397,28,70,33,56,4,3967,8904,7.2
+Client_460,Technology,Instagram,Reel,Tips & Tricks,Monday,8,19883,2221,177,382,325,396,47,872,14062,56.28
+Client_461,Fitness,YouTube Shorts,Carousel,Customer Story,Thursday,18,24335,820,25,59,77,328,28,1234,20417,14.81
+Client_462,Education,Instagram,Carousel,Product Education,Wednesday,8,9190,894,67,77,121,186,22,2660,19702,18.93
+Client_463,Education,Instagram,Carousel,Promotion,Sunday,10,23208,2026,94,151,93,222,19,1839,22294,30.34
+Client_464,Education,Instagram,Carousel,Product Education,Thursday,13,23378,1738,122,282,93,171,22,1979,25666,34.95
+Client_465,Beauty,YouTube Shorts,Carousel,Tips & Tricks,Saturday,17,6135,474,25,49,22,148,16,3192,6744,8.35
+Client_466,Beauty,YouTube Shorts,Reel,Promotion,Wednesday,17,20751,909,22,143,102,339,49,547,29122,22.24
+Client_467,Beauty,YouTube Shorts,Carousel,Customer Story,Saturday,19,12926,1392,94,120,177,304,29,3624,13243,28.57
+Client_468,Technology,Instagram,Reel,Promotion,Monday,8,14778,1480,54,218,165,118,10,4041,12570,27.06
+Client_469,Beauty,YouTube Shorts,Reel,Customer Story,Saturday,9,15686,1161,84,129,118,244,29,3516,26988,24.76
+Client_470,Education,YouTube Shorts,Carousel,Product Education,Monday,16,28165,1413,86,99,133,584,54,2881,42948,29.98
+Client_471,Fashion,Facebook,Carousel,Behind the Scenes,Tuesday,18,16787,1293,48,72,62,102,4,3980,3462,16.06
+Client_472,Education,YouTube Shorts,Static,Tips & Tricks,Sunday,12,20149,752,37,48,84,191,9,3719,3346,11.93
+Client_473,Education,YouTube Shorts,Carousel,Customer Story,Friday,19,27963,1971,134,186,277,706,39,1140,44494,42.21
+Client_474,Technology,YouTube Shorts,Reel,Promotion,Friday,8,12278,383,22,42,32,263,31,4487,20315,9.83
+Client_475,Beauty,YouTube Shorts,Static,Promotion,Sunday,12,8341,260,6,13,38,220,12,1689,12960,4.21
+Client_476,Education,YouTube Shorts,Static,Behind the Scenes,Monday,12,17224,1170,31,195,141,277,24,660,30802,23.95
+Client_477,Fitness,Instagram,Reel,Customer Story,Friday,21,22295,684,39,97,101,584,69,2882,23796,22.96
+Client_478,Education,Facebook,Static,Tips & Tricks,Saturday,17,5439,192,4,23,19,63,6,4377,6267,2.44
+Client_479,Fitness,YouTube Shorts,Carousel,Promotion,Saturday,14,15437,1472,70,157,141,303,33,4337,15075,28.57
+Client_480,Beauty,YouTube Shorts,Carousel,Promotion,Sunday,18,21477,2190,154,286,155,509,56,1557,25546,47.46
+Client_481,Food,YouTube Shorts,Carousel,Product Education,Sunday,14,13691,668,15,34,91,190,9,4624,3059,9.71
+Client_482,Technology,Facebook,Reel,Tips & Tricks,Tuesday,9,8338,443,17,42,19,224,13,1738,18821,6.84
+Client_483,Fitness,YouTube Shorts,Reel,Product Education,Thursday,20,12042,1417,94,183,190,90,8,4655,4224,28.18
+Client_484,Beauty,Instagram,Reel,Customer Story,Tuesday,19,18215,1795,89,292,102,256,32,1507,37429,35.57
+Client_485,Education,Facebook,Reel,Behind the Scenes,Sunday,20,10740,810,20,79,99,150,16,1741,20674,13.98
+Client_486,Education,Instagram,Reel,Promotion,Thursday,22,23015,2662,135,369,382,369,45,4738,15139,58.06
+Client_487,Technology,Facebook,Carousel,Behind the Scenes,Thursday,8,15438,1380,80,230,63,320,36,4758,23306,29.14
+Client_488,Education,YouTube Shorts,Static,Tips & Tricks,Sunday,12,13821,424,15,50,59,311,25,2180,33409,9.92
+Client_489,Fitness,YouTube Shorts,Static,Promotion,Saturday,13,9971,1089,27,130,90,229,31,4763,27218,20.32
+Client_490,Food,Instagram,Static,Tips & Tricks,Wednesday,16,12931,574,12,88,60,142,17,3963,13943,11.02
+Client_491,Beauty,Instagram,Carousel,Customer Story,Saturday,16,16615,1629,124,176,167,85,6,2434,11208,30.3
+Client_492,Fitness,YouTube Shorts,Static,Tips & Tricks,Sunday,17,12643,703,47,100,80,289,26,2528,11967,16.48
+Client_493,Fitness,YouTube Shorts,Reel,Customer Story,Thursday,9,24936,2607,64,151,359,421,35,3525,37316,43.46
+Client_494,Education,YouTube Shorts,Static,Tips & Tricks,Sunday,14,17876,1560,124,217,225,416,33,1834,17244,37.13
+Client_495,Food,Facebook,Static,Promotion,Tuesday,19,13714,557,18,62,68,392,29,1472,28461,12.4
+Client_496,Fashion,Instagram,Carousel,Tips & Tricks,Wednesday,8,22130,1403,111,125,131,548,25,3955,9974,27.83
+Client_497,Technology,Instagram,Reel,Promotion,Monday,9,28676,3106,139,386,317,788,97,4393,112049,68.19
+Client_498,Food,Instagram,Static,Promotion,Sunday,15,15772,934,63,127,79,170,13,4931,7477,18.11
+Client_499,Beauty,Facebook,Static,Product Education,Sunday,10,9896,1005,62,123,53,187,9,4938,7993,17.03
+Client_500,Fitness,YouTube Shorts,Reel,Promotion,Friday,22,34461,3937,121,206,498,383,43,4139,18818,64.24
+Client_501,Fitness,Facebook,Carousel,Tips & Tricks,Monday,15,8569,396,8,46,32,62,9,4938,6135,5.88
+Client_502,Food,Instagram,Carousel,Product Education,Tuesday,12,18345,647,50,47,76,228,9,1667,8703,11.64
+Client_503,Technology,Facebook,Reel,Product Education,Tuesday,11,15751,1171,76,117,61,102,8,3834,6502,18.99
+Client_504,Fashion,Facebook,Static,Behind the Scenes,Monday,12,10082,394,25,53,21,193,16,4599,8494,7.86
+Client_505,Technology,YouTube Shorts,Reel,Behind the Scenes,Friday,14,9211,277,13,43,19,269,8,4450,9129,4.63
+Client_506,Technology,YouTube Shorts,Carousel,Customer Story,Sunday,18,22722,1256,37,150,59,164,18,1644,22414,19.94
+Client_507,Technology,Facebook,Reel,Tips & Tricks,Friday,20,21852,2514,146,445,296,258,28,3134,18497,55.08
+Client_508,Education,YouTube Shorts,Carousel,Product Education,Saturday,10,21614,656,13,47,66,484,42,3717,34306,14.24
+Client_509,Beauty,YouTube Shorts,Reel,Tips & Tricks,Monday,22,12555,775,53,122,61,118,14,569,9068,15.75
+Client_510,Technology,Instagram,Carousel,Product Education,Tuesday,19,5648,515,32,38,66,116,14,2311,10891,9.72
+Client_511,Technology,Instagram,Carousel,Promotion,Saturday,19,24858,1184,82,120,160,477,42,2087,43484,27.76
+Client_512,Beauty,YouTube Shorts,Static,Tips & Tricks,Tuesday,9,6504,269,20,43,36,151,9,689,12996,5.66
+Client_513,Fitness,Facebook,Static,Tips & Tricks,Thursday,8,10800,1240,28,213,108,322,20,4745,18599,23.32
+Client_514,Technology,YouTube Shorts,Reel,Behind the Scenes,Monday,12,25885,1513,65,141,206,652,97,2348,96203,39.76
+Client_515,Fashion,Instagram,Reel,Behind the Scenes,Wednesday,12,8823,341,16,52,35,182,12,2551,6919,6.71
+Client_516,Education,Instagram,Carousel,Product Education,Sunday,13,22028,2531,168,330,313,454,45,1200,14313,55.55
+Client_517,Education,Facebook,Static,Product Education,Sunday,10,12916,451,25,47,23,82,2,3624,2107,6.0
+Client_518,Fitness,Facebook,Reel,Tips & Tricks,Sunday,18,13035,935,42,122,47,277,30,712,25657,18.31
+Client_519,Technology,YouTube Shorts,Reel,Product Education,Monday,8,10266,855,60,143,46,181,13,4443,16538,16.9
+Client_520,Food,Instagram,Reel,Product Education,Monday,10,19015,1448,85,139,150,352,16,4346,13998,26.32
+Client_521,Technology,Facebook,Carousel,Product Education,Friday,17,3939,297,20,48,25,38,2,2148,2668,4.64
+Client_522,Technology,Instagram,Static,Promotion,Saturday,19,16252,971,53,170,104,251,12,4221,14109,19.92
+Client_523,Education,Instagram,Reel,Behind the Scenes,Saturday,11,25358,1306,83,227,99,595,32,2009,35095,29.14
+Client_524,Technology,Instagram,Reel,Customer Story,Monday,16,10967,763,44,128,60,322,17,2827,9069,15.76
+Client_525,Technology,YouTube Shorts,Reel,Customer Story,Sunday,16,15527,495,34,83,20,340,25,1409,16622,11.56
+Client_526,Technology,Facebook,Reel,Customer Story,Sunday,13,14541,1590,115,93,88,408,51,2070,43643,30.99
+Client_527,Beauty,Facebook,Carousel,Tips & Tricks,Thursday,18,3756,311,22,27,17,41,4,2794,5607,4.18
+Client_528,Fitness,YouTube Shorts,Carousel,Behind the Scenes,Saturday,9,27741,2367,71,237,324,659,49,4750,36991,46.2
+Client_529,Technology,YouTube Shorts,Carousel,Tips & Tricks,Saturday,15,14792,1217,70,185,135,150,20,4203,24580,25.48
+Client_530,Education,Instagram,Carousel,Promotion,Thursday,17,10151,537,13,79,38,182,10,837,11456,8.74
+Client_531,Fitness,Facebook,Carousel,Promotion,Thursday,14,9021,528,22,38,34,190,13,1175,11273,8.09
+Client_532,Fitness,YouTube Shorts,Static,Product Education,Sunday,12,7908,288,6,21,17,104,6,2748,7618,3.15
+Client_533,Food,YouTube Shorts,Static,Tips & Tricks,Wednesday,8,13886,1395,61,143,144,296,25,4699,26947,25.83
+Client_534,Education,Instagram,Reel,Behind the Scenes,Thursday,11,27377,2688,170,295,341,351,18,3921,11945,52.34
+Client_535,Education,YouTube Shorts,Reel,Customer Story,Tuesday,17,7896,592,35,56,38,123,14,4904,10455,10.26
+Client_536,Fitness,Instagram,Static,Product Education,Tuesday,10,12656,1289,96,160,106,183,26,1021,23887,26.71
+Client_537,Food,Facebook,Reel,Customer Story,Friday,15,5658,222,11,12,25,97,5,1069,9076,2.73
+Client_538,Technology,Instagram,Reel,Customer Story,Saturday,16,9116,575,11,53,80,134,19,1557,18608,10.64
+Client_539,Education,YouTube Shorts,Reel,Promotion,Sunday,11,15923,921,63,125,52,308,20,2162,19039,18.18
+Client_540,Technology,Instagram,Reel,Behind the Scenes,Thursday,9,22602,1747,130,287,158,438,51,2858,50199,42.08
+Client_541,Technology,YouTube Shorts,Static,Customer Story,Thursday,17,11330,523,29,55,43,243,27,1282,17961,11.49
+Client_542,Food,Instagram,Carousel,Tips & Tricks,Wednesday,18,7187,682,22,77,101,135,20,1126,21321,13.74
+Client_543,Fitness,Facebook,Carousel,Promotion,Tuesday,12,11291,808,19,113,98,164,19,2092,12773,15.54
+Client_544,Fashion,Facebook,Reel,Behind the Scenes,Wednesday,18,13677,494,26,40,71,116,14,1821,6083,9.43
+Client_545,Fitness,Instagram,Reel,Customer Story,Monday,16,22258,2012,41,172,178,210,24,4860,14925,31.18
+Client_546,Beauty,Instagram,Static,Tips & Tricks,Saturday,18,6694,386,8,19,48,161,22,3569,27914,7.32
+Client_547,Food,Instagram,Reel,Promotion,Monday,8,20057,1829,43,319,92,519,56,1868,19925,37.4
+Client_548,Fitness,Instagram,Carousel,Customer Story,Friday,18,11211,1279,55,135,83,85,5,622,5895,19.4
+Client_549,Fashion,Facebook,Reel,Promotion,Tuesday,9,17060,1078,25,84,78,340,50,1334,53342,21.02
+Client_550,Fitness,Instagram,Carousel,Product Education,Friday,13,17732,744,22,110,86,522,57,1053,33945,20.57
+Client_551,Fitness,YouTube Shorts,Carousel,Promotion,Friday,18,25250,2358,49,124,291,204,11,4010,13270,34.01
+Client_552,Fitness,Instagram,Reel,Behind the Scenes,Wednesday,15,18398,1174,68,95,140,546,45,3192,19693,25.82
+Client_553,Technology,YouTube Shorts,Reel,Tips & Tricks,Sunday,14,8470,428,27,40,26,53,7,2534,9312,6.55
+Client_554,Fitness,Facebook,Static,Customer Story,Tuesday,15,3246,117,3,15,6,32,1,4996,2775,0.38
+Client_555,Food,YouTube Shorts,Reel,Promotion,Saturday,15,37058,1770,80,227,129,719,105,2149,59381,44.51
+Client_556,Fashion,Facebook,Carousel,Promotion,Tuesday,15,9925,842,38,59,122,169,20,4001,23161,15.9
+Client_557,Technology,YouTube Shorts,Static,Behind the Scenes,Friday,19,14772,1059,50,104,112,100,4,4344,3067,17.09
+Client_558,Food,Instagram,Reel,Tips & Tricks,Saturday,19,21578,2445,186,430,198,371,39,1083,26370,55.1
+Client_559,Fashion,Facebook,Static,Behind the Scenes,Tuesday,20,5745,352,22,46,28,37,2,3973,4027,5.19
+Client_560,Food,Facebook,Reel,Customer Story,Saturday,19,18033,1588,56,173,182,204,20,1822,6196,28.44
+Client_561,Fashion,YouTube Shorts,Static,Promotion,Thursday,19,6905,529,16,55,69,78,5,4867,7755,8.19
+Client_562,Fitness,Facebook,Static,Promotion,Sunday,22,3832,312,21,48,21,39,4,3023,2403,5.0
+Client_563,Education,Instagram,Reel,Product Education,Sunday,19,23363,2077,132,149,168,528,28,1990,22295,36.57
+Client_564,Education,YouTube Shorts,Reel,Behind the Scenes,Tuesday,8,15358,819,60,84,89,316,42,1860,16303,20.27
+Client_565,Fashion,Facebook,Reel,Customer Story,Monday,13,15743,1149,69,72,53,374,11,842,5568,17.03
+Client_566,Fitness,Instagram,Carousel,Tips & Tricks,Friday,20,13710,1345,75,126,154,186,12,2462,10692,24.0
+Client_567,Education,YouTube Shorts,Reel,Customer Story,Sunday,13,26215,2840,125,450,402,147,6,4846,5252,56.33
+Client_568,Technology,Facebook,Static,Promotion,Friday,14,2440,283,19,14,22,14,1,3166,4583,3.03
+Client_569,Food,YouTube Shorts,Carousel,Promotion,Saturday,17,20021,2292,175,256,257,450,18,3652,14873,45.72
+Client_570,Food,YouTube Shorts,Reel,Tips & Tricks,Friday,20,12736,952,24,150,142,378,32,4155,15725,21.56
+Client_571,Beauty,YouTube Shorts,Reel,Behind the Scenes,Tuesday,10,25312,3022,65,516,229,369,23,2610,25314,53.78
+Client_572,Beauty,Instagram,Static,Behind the Scenes,Friday,18,16896,1012,33,126,143,111,7,3626,11036,17.91
+Client_573,Education,Instagram,Reel,Customer Story,Monday,12,9841,596,33,44,85,190,8,3067,9838,10.26
+Client_574,Beauty,Instagram,Carousel,Product Education,Friday,16,11221,1326,51,129,152,279,25,2319,12213,24.46
+Client_575,Fashion,YouTube Shorts,Carousel,Customer Story,Tuesday,21,13173,987,46,126,55,284,35,781,32827,20.08
+Client_576,Technology,YouTube Shorts,Static,Product Education,Wednesday,21,21343,2232,110,315,181,630,44,2225,51035,45.15
+Client_577,Beauty,YouTube Shorts,Reel,Behind the Scenes,Sunday,15,34502,3868,114,204,321,536,46,3353,50356,58.29
+Client_578,Education,Instagram,Static,Customer Story,Wednesday,19,9113,596,16,88,61,228,30,2990,22880,13.44
+Client_579,Fitness,Instagram,Carousel,Promotion,Wednesday,22,9745,997,31,134,79,257,10,1709,9848,16.46
+Client_580,Beauty,Instagram,Reel,Product Education,Wednesday,15,13607,1608,94,204,235,281,22,778,10135,33.87
+Client_581,Education,Facebook,Carousel,Tips & Tricks,Tuesday,18,15711,1872,112,115,170,399,30,4146,18875,33.0
+Client_582,Fashion,Instagram,Reel,Product Education,Thursday,18,27128,2246,177,252,261,199,20,3645,18452,45.78
+Client_583,Technology,YouTube Shorts,Reel,Product Education,Wednesday,9,24101,2486,52,304,246,609,53,4750,63461,46.57
+Client_584,Fitness,YouTube Shorts,Static,Product Education,Sunday,20,7875,364,20,26,36,196,8,1555,8393,5.62
+Client_585,Beauty,Instagram,Reel,Tips & Tricks,Wednesday,21,7683,580,24,70,50,219,6,2962,6037,9.16
+Client_586,Technology,YouTube Shorts,Static,Promotion,Tuesday,17,13003,1001,79,95,99,133,5,866,2760,17.82
+Client_587,Food,Instagram,Carousel,Behind the Scenes,Tuesday,17,23090,1438,39,188,69,262,19,1837,16257,23.23
+Client_588,Fashion,Facebook,Static,Promotion,Saturday,10,5070,439,15,58,48,115,11,4689,10902,7.84
+Client_589,Education,Instagram,Carousel,Promotion,Thursday,8,24779,1345,69,186,113,327,13,3232,15836,24.68
+Client_590,Food,Instagram,Carousel,Product Education,Monday,14,12281,1233,33,146,168,242,30,1282,26588,24.55
+Client_591,Beauty,YouTube Shorts,Carousel,Tips & Tricks,Wednesday,17,7571,343,26,34,26,178,26,4855,26035,8.54
+Client_592,Education,Facebook,Static,Behind the Scenes,Wednesday,8,11748,1047,29,129,72,328,34,3532,35156,19.99
+Client_593,Beauty,YouTube Shorts,Carousel,Promotion,Tuesday,15,21357,1606,58,169,230,577,73,3000,66412,38.1
+Client_594,Technology,Facebook,Carousel,Product Education,Saturday,9,14959,1720,51,98,209,282,25,587,21267,28.05
+Client_595,Beauty,Instagram,Carousel,Promotion,Friday,18,22445,1492,85,251,182,512,58,3326,33326,38.01
+Client_596,Beauty,YouTube Shorts,Reel,Tips & Tricks,Thursday,10,16718,764,32,51,60,104,9,1896,6615,11.1
+Client_597,Technology,YouTube Shorts,Reel,Tips & Tricks,Sunday,20,19753,1451,52,72,158,293,41,4723,45185,26.06
+Client_598,Education,YouTube Shorts,Carousel,Product Education,Wednesday,8,15776,975,19,161,58,218,9,4530,4762,15.75
+Client_599,Fitness,YouTube Shorts,Reel,Promotion,Monday,22,13873,1376,48,152,111,195,26,4894,30313,24.38
+Client_600,Fashion,Facebook,Static,Promotion,Tuesday,10,12192,372,27,52,19,147,6,3949,8779,6.19
+Client_601,Fashion,Instagram,Static,Behind the Scenes,Thursday,18,10967,811,40,112,43,260,32,3775,27601,17.09
+Client_602,Food,Instagram,Reel,Product Education,Tuesday,10,20345,2015,68,278,156,598,70,4058,54241,42.92
+Client_603,Technology,Facebook,Reel,Promotion,Tuesday,17,18685,874,32,56,60,420,46,4015,24720,17.75
+Client_604,Beauty,Instagram,Static,Tips & Tricks,Friday,10,8945,774,22,50,65,105,5,1697,3574,10.09
+Client_605,Fitness,Instagram,Reel,Product Education,Thursday,14,27752,2414,81,226,223,492,52,2992,21029,44.13
+Client_606,Technology,Facebook,Carousel,Promotion,Tuesday,13,5977,179,10,16,12,71,7,4029,5139,2.39
+Client_607,Education,Facebook,Carousel,Customer Story,Monday,9,14189,1409,39,136,181,334,33,3544,18529,26.72
+Client_608,Food,YouTube Shorts,Carousel,Product Education,Monday,10,7344,608,45,82,37,166,23,1113,21416,13.24
+Client_609,Technology,YouTube Shorts,Carousel,Behind the Scenes,Friday,19,10188,481,25,39,65,268,37,3345,46140,12.56
+Client_610,Education,YouTube Shorts,Static,Product Education,Thursday,9,18529,2108,105,111,223,415,18,872,15420,34.0
+Client_611,Beauty,Instagram,Static,Promotion,Thursday,18,17957,2108,63,311,173,439,34,2724,17181,39.51
+Client_612,Fashion,Instagram,Static,Behind the Scenes,Friday,19,4232,300,18,35,22,44,5,1475,3959,4.45
+Client_613,Fashion,YouTube Shorts,Reel,Customer Story,Monday,18,18876,2141,77,327,236,211,27,4879,9947,42.01
+Client_614,Beauty,Facebook,Static,Tips & Tricks,Wednesday,13,11646,626,17,104,45,345,36,585,42260,14.72
+Client_615,Food,YouTube Shorts,Carousel,Behind the Scenes,Wednesday,8,25112,993,64,98,111,671,71,2188,80728,27.41
+Client_616,Food,Facebook,Carousel,Behind the Scenes,Friday,18,5550,282,17,27,39,40,2,2015,3612,4.03
+Client_617,Food,YouTube Shorts,Carousel,Behind the Scenes,Saturday,12,11338,1243,85,173,75,97,7,4227,11557,22.33
+Client_618,Fashion,YouTube Shorts,Static,Behind the Scenes,Saturday,20,7413,474,10,74,58,156,5,2534,5874,7.76
+Client_619,Technology,Instagram,Static,Tips & Tricks,Monday,20,4245,334,23,53,16,36,4,4139,5676,5.31
+Client_620,Technology,Facebook,Carousel,Behind the Scenes,Tuesday,8,14338,1239,33,194,63,178,16,3902,6329,20.95
+Client_621,Food,Instagram,Reel,Promotion,Thursday,10,20721,1042,75,104,143,529,23,1889,10165,22.29
+Client_622,Fashion,Facebook,Carousel,Product Education,Friday,13,8906,985,55,72,96,178,19,1730,24586,17.5
+Client_623,Fitness,Facebook,Carousel,Product Education,Wednesday,22,13841,1577,108,224,76,69,9,1717,10614,28.35
+Client_624,Technology,Instagram,Carousel,Promotion,Saturday,20,20677,830,37,119,46,270,12,3654,9947,14.34
+Client_625,Education,Facebook,Carousel,Promotion,Friday,20,5264,594,25,72,58,91,8,2385,5828,9.94
+Client_626,Fitness,YouTube Shorts,Carousel,Tips & Tricks,Friday,20,8859,453,9,81,18,167,24,1402,10325,9.47
+Client_627,Technology,Instagram,Carousel,Promotion,Tuesday,21,23071,1195,83,68,65,670,76,3592,76215,28.35
+Client_628,Beauty,Facebook,Carousel,Product Education,Saturday,9,4208,443,31,23,35,29,1,3911,1897,5.66
+Client_629,Education,YouTube Shorts,Reel,Tips & Tricks,Saturday,12,37095,2239,149,314,160,330,44,763,39613,46.85
+Client_630,Fitness,Instagram,Reel,Promotion,Sunday,14,24857,2601,195,299,306,387,18,1253,17204,52.25
+Client_631,Food,YouTube Shorts,Reel,Promotion,Friday,8,15023,1562,122,200,75,335,29,3818,34929,31.24
+Client_632,Food,Instagram,Carousel,Promotion,Tuesday,12,8552,535,35,50,35,77,3,2235,2672,7.85
+Client_633,Technology,Instagram,Static,Behind the Scenes,Saturday,22,4848,182,9,10,27,82,2,1263,1201,1.84
+Client_634,Technology,Facebook,Carousel,Tips & Tricks,Tuesday,13,14889,1751,108,109,148,350,14,1730,8646,28.53
+Client_635,Education,Facebook,Static,Product Education,Wednesday,10,11344,420,24,73,27,117,13,1653,14800,8.43
+Client_636,Fitness,YouTube Shorts,Static,Tips & Tricks,Saturday,16,8239,498,20,80,43,224,27,3675,15048,11.65
+Client_637,Fitness,YouTube Shorts,Reel,Behind the Scenes,Friday,18,8111,347,25,42,50,199,8,1270,8289,6.78
+Client_638,Food,Facebook,Reel,Product Education,Wednesday,17,10986,399,24,43,59,323,39,4121,36835,12.15
+Client_639,Fashion,YouTube Shorts,Carousel,Product Education,Wednesday,21,19403,2078,155,138,166,506,72,3561,27504,44.21
+Client_640,Fitness,Facebook,Carousel,Product Education,Friday,18,15141,1407,75,98,72,217,21,1097,13218,22.35
+Client_641,Education,YouTube Shorts,Reel,Customer Story,Thursday,15,26540,1056,32,67,153,396,32,3789,19280,20.21
+Client_642,Technology,Facebook,Static,Promotion,Tuesday,19,3898,276,14,47,15,40,3,3615,3900,3.94
+Client_643,Education,Facebook,Reel,Product Education,Tuesday,21,19286,1312,46,95,72,228,9,4198,13716,17.97
+Client_644,Fitness,Instagram,Static,Customer Story,Tuesday,21,5408,328,21,23,25,83,7,1816,10319,4.81
+Client_645,Technology,YouTube Shorts,Static,Promotion,Sunday,8,20452,979,62,122,54,441,56,3092,16016,24.01
+Client_646,Education,Instagram,Carousel,Customer Story,Monday,20,18316,1740,137,300,233,382,40,1298,13270,43.51
+Client_647,Beauty,Instagram,Carousel,Tips & Tricks,Sunday,10,24691,1514,116,266,156,132,16,632,11458,33.35
+Client_648,Fitness,Instagram,Static,Promotion,Saturday,15,14853,916,48,108,113,116,5,4009,4609,16.22
+Client_649,Fitness,YouTube Shorts,Reel,Tips & Tricks,Thursday,14,34516,3174,146,275,343,970,128,1217,138450,70.7
+Client_650,Fashion,YouTube Shorts,Reel,Tips & Tricks,Thursday,9,33051,3749,97,403,389,192,12,3945,7417,60.33
+Client_651,Education,YouTube Shorts,Carousel,Product Education,Tuesday,21,17488,2047,153,212,266,395,46,562,30952,45.57
+Client_652,Fitness,Facebook,Carousel,Customer Story,Wednesday,21,14031,426,31,23,18,347,45,4751,53919,11.73
+Client_653,Technology,Facebook,Reel,Tips & Tricks,Thursday,11,11765,1005,43,56,143,185,26,3698,27293,18.87
+Client_654,Education,Facebook,Static,Behind the Scenes,Thursday,11,11706,882,51,134,117,242,14,1802,9789,18.56
+Client_655,Fashion,Instagram,Reel,Promotion,Monday,18,30550,2615,137,461,269,172,20,4216,20913,53.82
+Client_656,Food,Instagram,Static,Behind the Scenes,Wednesday,11,18035,1719,117,170,118,113,4,1677,3757,28.55
+Client_657,Beauty,YouTube Shorts,Reel,Product Education,Thursday,22,11885,508,18,37,24,310,43,2203,28774,11.95
+Client_658,Education,Instagram,Carousel,Product Education,Thursday,18,7500,508,37,67,45,67,4,1963,8347,8.83
+Client_659,Beauty,YouTube Shorts,Reel,Product Education,Wednesday,13,32075,2539,74,371,360,315,10,688,11992,47.56
+Client_660,Food,Instagram,Carousel,Product Education,Tuesday,8,15732,590,36,39,41,157,6,2911,8429,8.57
+Client_661,Education,YouTube Shorts,Carousel,Behind the Scenes,Wednesday,10,29507,1631,71,205,202,377,47,4496,36225,35.52
+Client_662,Education,YouTube Shorts,Static,Customer Story,Sunday,13,14840,1018,55,100,111,98,4,776,5165,16.9
+Client_663,Fitness,Facebook,Carousel,Tips & Tricks,Sunday,22,8771,286,8,26,36,122,4,3544,3708,3.71
+Client_664,Technology,Instagram,Reel,Customer Story,Saturday,8,19720,1598,62,128,75,238,13,2281,9210,22.94
+Client_665,Technology,YouTube Shorts,Static,Product Education,Friday,22,16208,949,37,71,121,283,42,3950,16640,20.39
+Client_666,Education,Instagram,Static,Customer Story,Friday,14,10197,567,33,91,84,283,18,3799,9536,13.21
+Client_667,Fitness,Instagram,Carousel,Product Education,Monday,15,8116,771,28,114,64,153,10,885,8964,13.42
+Client_668,Beauty,Facebook,Carousel,Product Education,Sunday,13,3479,119,2,7,8,77,6,1894,3605,0.87
+Client_669,Beauty,Facebook,Static,Product Education,Saturday,21,5803,231,17,13,17,117,14,2711,14905,4.32
+Client_670,Food,YouTube Shorts,Carousel,Product Education,Tuesday,13,25140,2762,215,286,246,202,18,4415,20700,52.36
+Client_671,Technology,Facebook,Static,Promotion,Tuesday,9,12442,1169,48,185,77,263,34,1139,15135,24.18
+Client_672,Fashion,Instagram,Reel,Behind the Scenes,Thursday,21,22021,867,28,109,85,582,70,3054,71969,23.77
+Client_673,Beauty,Instagram,Static,Product Education,Tuesday,11,13532,1462,74,221,88,161,8,3016,13848,25.57
+Client_674,Beauty,Instagram,Reel,Promotion,Monday,19,10763,1188,37,63,134,175,10,1188,9654,17.41
+Client_675,Food,Instagram,Carousel,Tips & Tricks,Thursday,16,15935,868,22,116,104,248,16,3798,11746,16.0
+Client_676,Technology,YouTube Shorts,Static,Promotion,Friday,14,6107,538,41,42,24,35,2,1039,2415,7.46
+Client_677,Technology,Instagram,Static,Promotion,Thursday,14,6655,360,11,54,28,81,8,525,4284,5.8
+Client_678,Fitness,YouTube Shorts,Static,Promotion,Saturday,12,13060,1192,35,111,107,379,41,4005,24442,22.94
+Client_679,Food,Facebook,Reel,Behind the Scenes,Saturday,20,15915,1866,102,211,125,123,15,2881,18445,32.1
+Client_680,Fitness,YouTube Shorts,Reel,Behind the Scenes,Sunday,9,21248,1502,96,268,102,364,26,611,31410,32.02
+Client_681,Technology,YouTube Shorts,Carousel,Tips & Tricks,Sunday,18,9694,526,26,70,29,147,8,1660,8998,8.54
+Client_682,Fashion,Instagram,Static,Promotion,Wednesday,11,6340,554,43,90,63,174,14,4816,8179,12.42
+Client_683,Beauty,Facebook,Carousel,Promotion,Friday,14,8067,271,13,25,29,127,10,3342,6352,4.56
+Client_684,Fashion,Facebook,Static,Behind the Scenes,Thursday,18,9256,797,47,71,57,231,7,835,5622,12.55
+Client_685,Fitness,Instagram,Reel,Promotion,Wednesday,8,23875,2508,57,170,342,588,53,1770,20131,45.2
+Client_686,Food,YouTube Shorts,Reel,Promotion,Friday,22,16463,541,41,44,62,241,18,1303,23092,11.15
+Client_687,Technology,YouTube Shorts,Carousel,Behind the Scenes,Friday,14,24945,1060,70,87,90,249,16,2935,17057,18.84
+Client_688,Fitness,Instagram,Carousel,Promotion,Monday,10,22254,1295,98,184,118,349,28,3860,20442,28.4
+Client_689,Fitness,Instagram,Carousel,Product Education,Sunday,10,14908,1225,51,160,170,401,14,3716,8592,23.67
+Client_690,Beauty,Instagram,Carousel,Tips & Tricks,Thursday,21,6780,368,29,23,38,173,16,3214,18658,7.36
+Client_691,Fashion,YouTube Shorts,Static,Tips & Tricks,Saturday,19,10175,778,41,136,42,278,29,1767,18728,17.26
+Client_692,Beauty,Instagram,Carousel,Tips & Tricks,Saturday,11,8758,383,27,45,25,66,2,4643,4608,5.6
+Client_693,Fashion,Instagram,Carousel,Promotion,Thursday,10,12698,678,38,72,76,102,4,677,2916,11.28
+Client_694,Beauty,YouTube Shorts,Reel,Behind the Scenes,Friday,19,27002,1977,73,124,207,382,24,3660,24015,32.0
+Client_695,Education,Facebook,Carousel,Behind the Scenes,Monday,12,4968,323,17,17,36,106,8,3405,6969,4.81
+Client_696,Beauty,Facebook,Carousel,Product Education,Tuesday,13,17022,833,61,98,80,159,7,3279,6187,15.32
+Client_697,Technology,YouTube Shorts,Carousel,Promotion,Monday,22,21458,1813,55,257,173,460,28,3154,28613,33.99
+Client_698,Technology,YouTube Shorts,Static,Promotion,Monday,8,8972,456,27,52,52,117,6,2438,3567,7.83
+Client_699,Beauty,Facebook,Carousel,Product Education,Monday,17,4875,517,12,77,55,126,17,3130,9802,10.05
+Client_700,Education,Instagram,Static,Tips & Tricks,Friday,11,9130,633,23,48,36,231,29,2075,14570,11.8
+Client_701,Fashion,YouTube Shorts,Static,Product Education,Tuesday,8,4936,307,13,37,14,47,5,4826,5347,4.03
+Client_702,Food,YouTube Shorts,Carousel,Tips & Tricks,Wednesday,13,10517,1074,49,141,146,202,9,4737,5821,20.25
+Client_703,Fashion,Facebook,Reel,Product Education,Friday,16,4211,437,16,68,36,58,7,1793,4420,7.26
+Client_704,Fitness,YouTube Shorts,Reel,Tips & Tricks,Friday,16,32838,1152,71,74,105,917,56,745,18617,25.7
+Client_705,Education,Facebook,Reel,Customer Story,Sunday,8,7932,821,32,121,115,52,4,789,2995,14.92
+Client_706,Education,YouTube Shorts,Static,Tips & Tricks,Monday,22,8193,445,10,24,42,174,14,2985,16565,6.66
+Client_707,Fashion,Instagram,Reel,Behind the Scenes,Friday,17,21788,2100,111,119,260,487,39,3996,32796,38.91
+Client_708,Fashion,Facebook,Reel,Tips & Tricks,Wednesday,13,10776,1213,41,75,49,165,19,4892,16164,17.05
+Client_709,Fashion,YouTube Shorts,Reel,Product Education,Monday,8,14896,825,32,105,113,446,20,3758,15802,16.77
+Client_710,Beauty,Instagram,Reel,Customer Story,Friday,11,26521,2938,210,316,215,375,36,2500,30595,56.25
+Client_711,Technology,YouTube Shorts,Static,Tips & Tricks,Monday,8,15569,1455,83,125,90,131,19,2388,15207,24.39
+Client_712,Food,Instagram,Carousel,Behind the Scenes,Monday,11,19427,2249,47,356,156,382,25,1192,10061,39.32
+Client_713,Fitness,Facebook,Carousel,Product Education,Sunday,14,10274,515,22,69,50,220,7,3349,6918,8.67
+Client_714,Technology,Facebook,Static,Behind the Scenes,Sunday,8,11912,822,37,119,99,76,3,3679,5318,14.52
+Client_715,Fitness,Facebook,Carousel,Tips & Tricks,Saturday,17,7261,845,40,151,55,201,12,2747,6091,16.04
+Client_716,Fitness,Facebook,Carousel,Tips & Tricks,Thursday,8,8926,797,53,123,85,72,7,3129,9908,15.61
+Client_717,Food,Facebook,Carousel,Product Education,Thursday,8,3606,264,18,20,12,102,6,3072,5498,3.5
+Client_718,Food,Facebook,Carousel,Customer Story,Sunday,15,6726,307,22,41,20,143,7,4651,11524,5.2
+Client_719,Fitness,Facebook,Reel,Tips & Tricks,Saturday,11,18383,2165,45,346,288,340,12,2422,8190,40.25
+Client_720,Fashion,YouTube Shorts,Carousel,Product Education,Friday,9,16675,1356,94,187,64,261,16,702,14316,25.25
+Client_721,Technology,Facebook,Carousel,Customer Story,Thursday,12,5626,191,14,32,8,113,14,4684,17911,4.24
+Client_722,Fitness,YouTube Shorts,Carousel,Behind the Scenes,Thursday,21,27530,2625,112,471,127,190,27,2339,26480,49.51
+Client_723,Fitness,YouTube Shorts,Static,Promotion,Friday,19,18634,1897,107,257,184,240,12,2900,16183,35.61
+Client_724,Technology,Instagram,Carousel,Behind the Scenes,Thursday,13,8781,615,47,63,29,166,6,3467,9480,9.9
+Client_725,Fitness,Instagram,Carousel,Promotion,Tuesday,17,9105,909,40,114,50,104,6,3071,2887,14.14
+Client_726,Education,Facebook,Static,Behind the Scenes,Friday,15,14194,1545,32,101,106,267,37,1327,14302,24.41
+Client_727,Education,Instagram,Static,Behind the Scenes,Monday,10,17497,1971,146,189,166,331,38,1475,25329,39.49
+Client_728,Fitness,YouTube Shorts,Static,Product Education,Saturday,8,14104,1628,121,214,197,224,27,1602,28529,35.58
+Client_729,Beauty,YouTube Shorts,Static,Product Education,Tuesday,22,20346,1287,75,127,113,360,36,1293,19967,26.02
+Client_730,Education,Facebook,Reel,Tips & Tricks,Friday,22,15623,1655,75,152,124,147,6,2225,8392,25.42
+Client_731,Technology,YouTube Shorts,Static,Customer Story,Monday,13,7907,442,21,34,25,225,13,1369,17445,6.97
+Client_732,Beauty,Facebook,Reel,Product Education,Tuesday,16,19208,623,46,108,61,479,14,711,10456,13.69
+Client_733,Technology,YouTube Shorts,Carousel,Promotion,Friday,10,9591,905,68,59,124,166,6,1620,4164,16.08
+Client_734,Technology,Instagram,Static,Behind the Scenes,Saturday,9,12574,756,35,110,86,86,9,814,7059,14.11
+Client_735,Beauty,YouTube Shorts,Carousel,Behind the Scenes,Sunday,16,26554,815,22,80,117,579,35,1740,27642,17.62
+Client_736,Beauty,Facebook,Carousel,Behind the Scenes,Tuesday,18,11459,1116,22,65,113,117,6,3925,7879,14.8
+Client_737,Fitness,Facebook,Static,Tips & Tricks,Tuesday,18,8746,779,23,69,51,107,9,3712,10683,11.04
+Client_738,Fitness,Facebook,Carousel,Product Education,Tuesday,9,9874,585,34,38,53,128,5,3761,5904,8.59
+Client_739,Education,Facebook,Static,Promotion,Saturday,11,6212,470,34,71,21,150,9,3101,9245,8.54
+Client_740,Education,Facebook,Carousel,Customer Story,Monday,12,14930,904,62,81,76,288,14,2189,15575,16.25
+Client_741,Fitness,YouTube Shorts,Carousel,Behind the Scenes,Friday,16,6691,683,17,96,95,161,15,903,13439,13.18
+Client_742,Technology,YouTube Shorts,Reel,Behind the Scenes,Sunday,16,36901,1868,127,314,142,383,45,611,13034,42.36
+Client_743,Fitness,Instagram,Static,Promotion,Sunday,15,5108,291,9,43,19,60,2,3595,5124,3.58
+Client_744,Food,YouTube Shorts,Carousel,Product Education,Monday,9,29051,2864,128,148,376,584,28,3704,17505,48.54
+Client_745,Technology,Facebook,Carousel,Tips & Tricks,Saturday,8,7490,361,12,48,33,91,3,3828,4753,5.04
+Client_746,Education,Facebook,Static,Tips & Tricks,Friday,11,2625,250,19,37,29,42,4,703,4525,4.27
+Client_747,Education,Facebook,Carousel,Tips & Tricks,Monday,18,8446,868,68,54,50,224,19,2547,7522,15.35
+Client_748,Education,YouTube Shorts,Carousel,Tips & Tricks,Saturday,21,13616,480,23,49,58,352,12,3830,13749,8.76
+Client_749,Technology,YouTube Shorts,Reel,Tips & Tricks,Sunday,15,20320,2364,80,259,220,383,45,1167,54545,43.71
+Client_750,Education,YouTube Shorts,Reel,Promotion,Tuesday,20,28796,2802,83,299,411,172,13,1898,15880,49.53
+Client_751,Education,Instagram,Static,Tips & Tricks,Thursday,14,4242,293,11,49,33,76,7,3544,7148,5.12
+Client_752,Food,Facebook,Static,Behind the Scenes,Sunday,17,9207,484,23,83,68,211,27,1608,15581,12.59
+Client_753,Beauty,Facebook,Reel,Customer Story,Thursday,10,13385,1598,32,225,98,98,8,1275,6335,24.53
+Client_754,Fitness,Instagram,Reel,Customer Story,Saturday,16,15507,484,15,42,67,242,28,3508,28195,10.78
+Client_755,Technology,YouTube Shorts,Static,Behind the Scenes,Monday,17,23953,1185,36,146,63,432,46,3637,31763,23.61
+Client_756,Fitness,YouTube Shorts,Carousel,Tips & Tricks,Saturday,22,11508,348,11,27,49,234,11,4395,12597,5.85
+Client_757,Technology,Instagram,Reel,Behind the Scenes,Friday,20,24258,1757,67,261,116,359,44,4386,29525,35.13
+Client_758,Fitness,Facebook,Static,Product Education,Friday,21,4576,480,30,76,48,78,9,1485,10955,9.37
+Client_759,Beauty,Facebook,Reel,Product Education,Sunday,13,19533,1194,54,155,162,547,28,3565,12211,25.33
+Client_760,Food,Facebook,Carousel,Tips & Tricks,Tuesday,8,8085,311,13,25,43,163,5,2752,8456,4.52
+Client_761,Education,Instagram,Static,Customer Story,Wednesday,18,5500,592,44,106,64,94,8,4969,9459,12.45
+Client_762,Fashion,Facebook,Reel,Tips & Tricks,Saturday,10,21586,808,56,52,71,491,33,4957,19212,16.9
+Client_763,Beauty,YouTube Shorts,Static,Product Education,Wednesday,21,23393,1058,83,152,84,125,13,3910,14894,21.27
+Client_764,Fashion,Instagram,Static,Behind the Scenes,Saturday,12,6200,210,11,29,17,129,16,526,11330,4.67
+Client_765,Fitness,Facebook,Reel,Customer Story,Thursday,17,15345,582,43,42,28,198,20,664,22087,10.78
+Client_766,Fashion,Instagram,Static,Customer Story,Thursday,9,10467,919,68,68,113,87,3,2851,3581,15.71
+Client_767,Food,YouTube Shorts,Carousel,Promotion,Tuesday,21,12528,575,21,80,39,216,21,3357,26124,11.25
+Client_768,Education,YouTube Shorts,Static,Behind the Scenes,Monday,21,8881,696,22,98,54,224,28,2199,20926,14.38
+Client_769,Fitness,YouTube Shorts,Carousel,Product Education,Friday,20,13151,948,20,61,106,127,5,3145,7773,12.91
+Client_770,Education,YouTube Shorts,Static,Product Education,Wednesday,19,14207,1537,31,161,118,301,12,3432,8089,22.97
+Client_771,Education,YouTube Shorts,Reel,Product Education,Thursday,20,31091,2876,183,320,192,717,73,4453,72198,59.26
+Client_772,Technology,Instagram,Reel,Tips & Tricks,Monday,14,23693,2745,120,147,264,664,90,4793,45422,53.19
+Client_773,Food,Instagram,Static,Customer Story,Sunday,8,6369,650,30,46,26,55,7,2968,4606,8.61
+Client_774,Food,Instagram,Reel,Promotion,Monday,19,16273,1301,86,65,74,122,11,3728,12355,19.57
+Client_775,Education,YouTube Shorts,Carousel,Promotion,Saturday,11,10210,598,45,60,45,123,13,3978,14419,11.1
+Client_776,Fitness,Instagram,Carousel,Promotion,Saturday,19,24216,2656,81,213,212,424,12,3761,14864,39.05
+Client_777,Beauty,Instagram,Reel,Promotion,Tuesday,8,14901,571,24,41,32,190,21,4437,8123,9.8
+Client_778,Education,Instagram,Reel,Promotion,Saturday,16,10608,648,41,87,54,267,13,1554,15047,12.47
+Client_779,Education,YouTube Shorts,Carousel,Product Education,Thursday,18,7786,445,15,58,47,195,16,3554,20663,8.62
+Client_780,Beauty,Facebook,Static,Customer Story,Monday,20,7957,782,56,47,31,228,26,2612,15970,14.23
+Client_781,Fitness,YouTube Shorts,Carousel,Promotion,Monday,15,9982,1079,51,60,114,142,11,2926,11577,16.87
+Client_782,Fitness,Facebook,Reel,Customer Story,Wednesday,14,12898,732,16,47,88,235,18,1935,10430,12.0
+Client_783,Fashion,Instagram,Static,Behind the Scenes,Saturday,15,15300,934,44,121,131,422,59,4788,52843,25.37
+Client_784,Fashion,Instagram,Carousel,Customer Story,Monday,10,24967,2574,67,300,308,335,35,2973,27152,47.12
+Client_785,Fashion,Instagram,Static,Customer Story,Saturday,18,6077,710,48,88,106,123,11,2496,10960,14.67
+Client_786,Technology,YouTube Shorts,Carousel,Behind the Scenes,Sunday,22,28572,2858,104,392,304,792,88,2733,25775,62.68
+Client_787,Food,Instagram,Carousel,Behind the Scenes,Wednesday,12,20153,1181,39,61,89,132,8,4273,10262,15.73
+Client_788,Beauty,YouTube Shorts,Carousel,Tips & Tricks,Thursday,15,17237,1045,42,112,94,406,22,1892,23853,18.99
+Client_789,Technology,Facebook,Reel,Tips & Tricks,Monday,18,15245,571,37,67,41,362,30,4328,9677,13.15
+Client_790,Fitness,YouTube Shorts,Reel,Tips & Tricks,Wednesday,17,8458,825,30,121,122,121,11,3600,10592,16.12
+Client_791,Fashion,Facebook,Reel,Behind the Scenes,Monday,17,7407,733,57,129,73,102,5,2784,5860,14.91
+Client_792,Beauty,Instagram,Static,Customer Story,Friday,16,17959,1927,95,212,252,291,40,1955,28722,39.87
+Client_793,Fashion,YouTube Shorts,Carousel,Promotion,Saturday,10,25010,2220,174,229,244,512,23,4623,12547,44.53
+Client_794,Fitness,YouTube Shorts,Carousel,Product Education,Wednesday,17,24655,2127,129,369,90,493,61,3689,53903,47.23
+Client_795,Food,Instagram,Carousel,Customer Story,Saturday,21,12841,1468,110,134,106,351,19,4277,15687,26.9
+Client_796,Beauty,YouTube Shorts,Carousel,Behind the Scenes,Sunday,10,27016,1080,60,100,152,242,20,1072,5404,21.36
+Client_797,Beauty,YouTube Shorts,Carousel,Tips & Tricks,Thursday,21,19667,2284,166,273,271,396,58,694,44480,52.26
+Client_798,Beauty,Instagram,Carousel,Promotion,Sunday,21,6307,595,30,79,51,51,2,2650,6801,9.36
+Client_799,Fashion,YouTube Shorts,Reel,Customer Story,Thursday,18,17455,1773,57,111,196,119,16,4526,18324,27.5
+Client_800,Technology,Facebook,Carousel,Promotion,Wednesday,20,14461,1173,65,174,66,176,9,3538,10414,20.68
+Client_801,Beauty,Facebook,Carousel,Behind the Scenes,Friday,18,10787,750,28,110,87,93,6,3647,4945,13.22
+Client_802,Fashion,Instagram,Static,Customer Story,Tuesday,17,4316,409,26,73,34,88,4,3319,4912,7.31
+Client_803,Fitness,YouTube Shorts,Carousel,Tips & Tricks,Wednesday,14,11541,1250,61,141,102,250,9,2341,6785,20.94
+Client_804,Food,Instagram,Carousel,Tips & Tricks,Sunday,19,8918,553,26,93,77,231,30,4793,36940,14.38
+Client_805,Beauty,Instagram,Carousel,Product Education,Thursday,18,8238,296,15,35,35,220,32,958,27266,8.76
+Client_806,Fitness,Instagram,Reel,Customer Story,Sunday,19,13732,1471,49,210,87,404,25,2773,10131,26.32
+Client_807,Beauty,Instagram,Reel,Tips & Tricks,Wednesday,8,14757,1220,66,134,120,362,24,1098,14742,23.61
+Client_808,Fashion,Facebook,Reel,Promotion,Tuesday,9,15820,1326,50,67,115,437,50,4126,53895,24.89
+Client_809,Fitness,YouTube Shorts,Static,Promotion,Monday,12,11896,884,27,102,85,342,22,4859,13882,16.26
+Client_810,Technology,YouTube Shorts,Static,Tips & Tricks,Wednesday,18,9575,707,27,124,64,86,3,4039,5312,12.17
+Client_811,Fashion,Facebook,Carousel,Tips & Tricks,Sunday,10,15759,1554,50,179,116,287,12,2958,19381,24.8
+Client_812,Food,YouTube Shorts,Static,Behind the Scenes,Wednesday,10,15186,1529,108,197,87,439,64,3915,69278,35.76
+Client_813,Food,Facebook,Carousel,Customer Story,Wednesday,10,8467,523,33,56,45,125,10,3810,6408,9.23
+Client_814,Technology,YouTube Shorts,Reel,Promotion,Sunday,12,36348,1751,104,145,230,203,16,3632,13899,32.37
+Client_815,Fitness,YouTube Shorts,Reel,Behind the Scenes,Friday,16,18721,741,25,68,68,431,37,876,42008,15.63
+Client_816,Beauty,YouTube Shorts,Carousel,Behind the Scenes,Wednesday,17,7943,310,18,26,24,223,9,1600,10965,4.88
+Client_817,Technology,YouTube Shorts,Carousel,Behind the Scenes,Sunday,10,24811,1190,30,97,122,597,36,4850,41483,21.82
+Client_818,Beauty,Instagram,Reel,Product Education,Sunday,20,19108,2129,99,351,128,319,27,3228,14352,40.79
+Client_819,Technology,YouTube Shorts,Static,Product Education,Tuesday,9,15188,1557,105,246,72,451,33,4081,13436,32.34
+Client_820,Technology,YouTube Shorts,Carousel,Customer Story,Friday,13,8475,685,53,103,67,211,27,1218,26436,16.56
+Client_821,Fitness,YouTube Shorts,Reel,Product Education,Sunday,18,18840,1354,99,242,76,249,12,3283,12891,27.23
+Client_822,Beauty,YouTube Shorts,Carousel,Product Education,Thursday,17,26437,2763,58,219,240,303,17,3175,17264,40.31
+Client_823,Beauty,YouTube Shorts,Reel,Tips & Tricks,Wednesday,22,15235,1516,49,111,65,305,40,1543,34975,24.77
+Client_824,Fashion,Facebook,Carousel,Behind the Scenes,Saturday,11,7963,542,19,93,34,110,5,4101,4952,8.75
+Client_825,Fashion,Facebook,Static,Behind the Scenes,Thursday,8,8148,390,25,49,20,238,21,4731,9188,8.42
+Client_826,Food,Instagram,Carousel,Tips & Tricks,Wednesday,19,15383,752,19,87,69,272,39,632,13136,16.37
+Client_827,Education,Facebook,Reel,Customer Story,Wednesday,12,12641,721,57,43,79,186,16,2750,18600,13.63
+Client_828,Fashion,Instagram,Reel,Behind the Scenes,Friday,8,11490,489,23,26,51,117,13,2900,11588,7.95
+Client_829,Food,Facebook,Reel,Behind the Scenes,Friday,10,11226,1131,24,86,95,160,20,3130,5791,17.37
+Client_830,Technology,Instagram,Carousel,Product Education,Saturday,21,9729,332,14,42,32,87,2,2324,4127,4.55
+Client_831,Fashion,Instagram,Carousel,Promotion,Thursday,21,22587,2419,165,121,223,620,37,3145,38537,43.16
+Client_832,Technology,YouTube Shorts,Static,Product Education,Thursday,15,8098,402,11,69,26,57,2,3808,1940,5.67
+Client_833,Food,Instagram,Carousel,Behind the Scenes,Saturday,18,14866,1749,105,205,181,402,48,1578,31537,37.94
+Client_834,Technology,YouTube Shorts,Reel,Tips & Tricks,Saturday,22,23270,2021,136,358,84,485,63,2448,29395,46.58
+Client_835,Technology,Instagram,Static,Promotion,Thursday,21,13014,1408,110,144,210,212,13,4103,7098,29.06
+Client_836,Beauty,YouTube Shorts,Carousel,Customer Story,Tuesday,12,21969,2185,103,136,293,529,32,3493,22160,39.61
+Client_837,Fitness,Instagram,Reel,Behind the Scenes,Thursday,21,10801,1016,28,96,91,203,28,4634,15464,18.2
+Client_838,Fitness,Instagram,Reel,Behind the Scenes,Sunday,8,14387,1112,74,136,109,88,8,4919,8228,20.57
+Client_839,Food,Facebook,Reel,Product Education,Saturday,10,21018,918,70,118,123,251,36,3783,23101,22.94
+Client_840,Fitness,Facebook,Carousel,Promotion,Wednesday,10,3005,158,8,14,22,61,8,985,11545,2.5
+Client_841,Food,Instagram,Carousel,Behind the Scenes,Sunday,20,12945,1141,49,85,150,87,12,2762,8004,19.35
+Client_842,Fashion,YouTube Shorts,Static,Tips & Tricks,Saturday,10,8532,772,50,39,40,109,4,4359,5538,10.43
+Client_843,Technology,Instagram,Static,Tips & Tricks,Thursday,10,5844,354,12,63,29,159,6,4321,8908,5.86
+Client_844,Food,YouTube Shorts,Static,Promotion,Sunday,12,7500,284,18,49,38,82,10,4551,14602,6.08
+Client_845,Education,Instagram,Static,Product Education,Sunday,20,11344,1088,80,144,82,245,14,3421,4795,21.12
+Client_846,Fashion,YouTube Shorts,Carousel,Behind the Scenes,Friday,15,20213,1817,47,275,214,384,50,3578,47801,38.79
+Client_847,Beauty,Facebook,Reel,Tips & Tricks,Monday,17,15538,630,41,61,71,428,34,3725,33816,15.14
+Client_848,Technology,YouTube Shorts,Carousel,Promotion,Friday,21,19064,1967,113,297,223,107,10,697,11644,38.79
+Client_849,Fashion,Facebook,Carousel,Product Education,Saturday,15,8875,541,42,44,48,54,4,2655,5463,8.65
+Client_850,Food,YouTube Shorts,Static,Customer Story,Saturday,14,9309,986,70,92,106,218,28,2364,18577,20.79
+Client_851,Fashion,YouTube Shorts,Reel,Promotion,Wednesday,17,15126,1483,47,239,138,203,16,3461,17656,27.5
+Client_852,Food,Facebook,Reel,Product Education,Tuesday,17,22362,2080,111,308,206,334,37,2127,13506,43.51
+Client_853,Beauty,YouTube Shorts,Static,Promotion,Sunday,12,13716,1069,46,181,54,396,50,2907,48570,24.91
+Client_854,Fashion,Facebook,Reel,Promotion,Sunday,8,14972,1348,49,154,177,442,26,2350,19969,26.31
+Client_855,Food,Instagram,Carousel,Behind the Scenes,Monday,21,20835,1402,74,173,119,545,54,3671,56898,31.38
+Client_856,Beauty,Facebook,Carousel,Promotion,Wednesday,13,8245,512,39,34,68,244,14,4909,12842,10.03
+Client_857,Fashion,YouTube Shorts,Static,Promotion,Friday,13,20635,1042,42,147,153,526,29,2704,24737,23.07
+Client_858,Education,YouTube Shorts,Carousel,Promotion,Friday,14,6724,540,28,31,42,179,8,3403,4789,7.77
+Client_859,Fitness,Facebook,Static,Product Education,Saturday,17,8046,794,22,80,89,102,11,2995,8373,12.95
+Client_860,Fitness,YouTube Shorts,Carousel,Behind the Scenes,Sunday,16,6222,730,16,108,76,151,5,1021,7349,11.79
+Client_861,Beauty,Instagram,Static,Behind the Scenes,Tuesday,17,8700,284,21,41,21,63,4,3673,7634,4.54
+Client_862,Education,YouTube Shorts,Carousel,Behind the Scenes,Sunday,13,16197,1003,62,164,95,155,12,2356,7976,20.21
+Client_863,Technology,Facebook,Reel,Tips & Tricks,Wednesday,8,4996,176,7,12,25,91,2,3651,1352,1.68
+Client_864,Fitness,YouTube Shorts,Carousel,Product Education,Tuesday,11,23537,1168,47,190,163,470,46,4110,46212,28.74
+Client_865,Fitness,Instagram,Carousel,Product Education,Friday,8,22615,2321,89,203,181,215,19,1316,16003,36.78
+Client_866,Fitness,Instagram,Static,Customer Story,Thursday,22,18364,1846,141,252,87,204,9,4520,7289,33.66
+Client_867,Fashion,Facebook,Reel,Promotion,Sunday,21,5772,220,13,37,22,130,12,4975,12542,4.69
+Client_868,Technology,Facebook,Reel,Promotion,Sunday,11,16576,1100,46,125,103,216,19,3685,14773,19.92
+Client_869,Technology,YouTube Shorts,Static,Product Education,Friday,21,7137,411,22,68,40,150,17,4876,5112,9.07
+Client_870,Technology,Facebook,Reel,Customer Story,Friday,8,18875,1456,44,142,170,524,21,2021,26238,25.42
+Client_871,Beauty,Facebook,Reel,Behind the Scenes,Thursday,11,16865,529,39,40,61,474,14,2469,15659,10.16
+Client_872,Food,Facebook,Reel,Customer Story,Sunday,14,6942,582,33,48,82,152,17,3037,10036,11.58
+Client_873,Education,YouTube Shorts,Reel,Promotion,Sunday,14,15261,1579,77,202,171,227,25,4179,11351,31.07
+Client_874,Fashion,YouTube Shorts,Reel,Product Education,Tuesday,22,15010,1175,35,171,170,343,38,2833,32708,26.4
+Client_875,Technology,YouTube Shorts,Carousel,Product Education,Sunday,9,12623,1458,77,167,78,377,32,1395,13521,27.16
+Client_876,Fashion,Facebook,Reel,Product Education,Sunday,19,8700,742,34,50,78,52,7,2048,8975,11.26
+Client_877,Beauty,Facebook,Reel,Tips & Tricks,Monday,10,21351,2411,98,183,267,315,15,2890,12026,39.29
+Client_878,Food,Instagram,Static,Behind the Scenes,Wednesday,18,15504,561,19,66,56,133,19,964,7449,10.74
+Client_879,Education,YouTube Shorts,Static,Product Education,Friday,19,13232,838,23,53,55,192,18,3674,23310,12.41
+Client_880,Fashion,Instagram,Static,Product Education,Friday,16,5937,618,30,76,50,131,10,2446,13508,10.62
+Client_881,Fitness,Facebook,Carousel,Promotion,Thursday,22,10441,1139,38,99,137,303,23,2607,27832,20.46
+Client_882,Technology,YouTube Shorts,Reel,Promotion,Sunday,12,26338,1762,128,283,261,214,22,2204,18079,40.64
+Client_883,Education,Facebook,Static,Promotion,Thursday,14,7164,425,18,61,26,74,3,2094,6409,6.13
+Client_884,Education,YouTube Shorts,Carousel,Customer Story,Saturday,12,10631,768,40,83,107,307,41,3876,14015,19.06
+Client_885,Food,Facebook,Static,Behind the Scenes,Saturday,14,8059,925,19,71,94,75,11,1776,13258,13.59
+Client_886,Fitness,Instagram,Reel,Promotion,Wednesday,15,16313,1609,79,208,199,297,31,789,29997,33.4
+Client_887,Fashion,Instagram,Reel,Product Education,Sunday,21,8410,489,36,37,27,86,11,3473,12352,8.08
+Client_888,Fitness,Facebook,Carousel,Customer Story,Saturday,10,7968,814,24,133,47,63,8,3856,7897,13.36
+Client_889,Fitness,YouTube Shorts,Carousel,Customer Story,Saturday,21,27753,3193,238,199,141,749,64,4406,27299,57.7
+Client_890,Fitness,YouTube Shorts,Carousel,Promotion,Friday,17,6650,780,59,96,107,197,26,1064,12311,18.45
+Client_891,Fitness,Facebook,Static,Promotion,Tuesday,9,10712,603,40,91,47,316,28,3922,14835,14.29
+Client_892,Technology,Instagram,Static,Customer Story,Friday,22,4614,514,11,41,37,74,6,831,6926,6.46
+Client_893,Beauty,Instagram,Carousel,Tips & Tricks,Monday,10,5349,169,7,28,13,31,3,3573,4783,1.99
+Client_894,Fitness,Facebook,Carousel,Customer Story,Tuesday,13,12050,891,32,150,125,85,9,3110,14356,17.55
+Client_895,Fashion,Instagram,Reel,Product Education,Tuesday,9,13503,592,40,89,79,70,2,3294,2858,11.15
+Client_896,Food,YouTube Shorts,Static,Promotion,Saturday,21,22230,878,23,124,54,525,20,1251,20450,15.51
+Client_897,Fashion,Facebook,Static,Behind the Scenes,Tuesday,8,7470,644,20,100,75,129,14,4343,12464,12.45
+Client_898,Fashion,Facebook,Reel,Tips & Tricks,Monday,9,7798,334,17,58,39,176,6,2032,9340,6.13
+Client_899,Food,Instagram,Carousel,Tips & Tricks,Wednesday,17,18509,1030,46,161,124,338,36,2561,20689,23.9
+Client_900,Fashion,Instagram,Reel,Promotion,Wednesday,22,8723,324,21,46,13,205,8,3461,12672,5.38
+Client_901,Beauty,Instagram,Static,Customer Story,Saturday,21,12364,1196,58,137,148,158,23,2058,15919,23.76
+Client_902,Food,Instagram,Static,Customer Story,Thursday,15,16101,1154,85,125,64,382,30,700,35462,23.13
+Client_903,Technology,Facebook,Static,Behind the Scenes,Thursday,13,8092,902,26,156,57,43,3,2719,3405,14.5
+Client_904,Fashion,Facebook,Carousel,Behind the Scenes,Wednesday,21,7549,355,20,40,31,198,17,989,11255,7.27
+Client_905,Fashion,Facebook,Static,Promotion,Friday,12,5481,629,42,65,26,69,3,3044,6364,9.23
+Client_906,Fitness,Instagram,Static,Behind the Scenes,Friday,12,12941,1328,95,130,194,85,7,3916,5229,25.66
+Client_907,Technology,YouTube Shorts,Reel,Customer Story,Saturday,22,18990,1518,82,141,93,155,10,2375,14606,24.08
+Client_908,Fitness,Instagram,Reel,Promotion,Friday,15,7043,769,33,53,57,128,10,2679,6862,11.33
+Client_909,Education,Instagram,Carousel,Behind the Scenes,Wednesday,21,6934,347,7,33,37,132,16,3121,14509,6.22
+Client_910,Fitness,YouTube Shorts,Reel,Behind the Scenes,Friday,17,9980,960,30,147,68,247,19,589,12683,17.63
+Client_911,Food,Instagram,Carousel,Product Education,Monday,18,18809,1351,100,93,147,355,35,3073,14840,27.66
+Client_912,Education,Facebook,Reel,Tips & Tricks,Thursday,12,15760,930,19,52,70,266,12,3572,9964,12.37
+Client_913,Beauty,Facebook,Static,Customer Story,Thursday,10,10435,917,36,136,40,185,21,1580,16441,16.72
+Client_914,Fashion,Instagram,Reel,Product Education,Friday,10,15875,1865,75,193,228,274,26,4798,20819,34.67
+Client_915,Beauty,Instagram,Static,Product Education,Sunday,11,15756,1554,112,123,71,348,11,2347,8487,24.98
+Client_916,Fashion,Instagram,Reel,Behind the Scenes,Sunday,10,26753,1735,100,176,166,327,10,3899,8686,30.25
+Client_917,Fashion,Instagram,Static,Product Education,Tuesday,11,19276,1184,29,194,113,495,38,1747,30422,25.19
+Client_918,Beauty,YouTube Shorts,Static,Customer Story,Wednesday,16,14981,664,21,85,50,197,12,1476,13329,11.06
+Client_919,Education,Instagram,Carousel,Tips & Tricks,Saturday,18,21770,1053,28,105,54,616,33,2946,38121,18.43
+Client_920,Fitness,Facebook,Carousel,Promotion,Monday,18,12287,608,13,31,79,325,17,3683,19460,9.89
+Client_921,Education,Facebook,Static,Behind the Scenes,Thursday,15,10220,1037,62,178,50,78,2,755,2177,18.06
+Client_922,Fashion,Facebook,Reel,Customer Story,Thursday,14,7016,244,8,18,21,188,7,3920,6616,3.11
+Client_923,Technology,Instagram,Reel,Customer Story,Tuesday,12,24965,1019,59,177,129,674,95,1930,26002,34.32
+Client_924,Fashion,YouTube Shorts,Reel,Promotion,Sunday,22,30332,1655,35,203,77,676,37,3756,38019,28.15
+Client_925,Fashion,Instagram,Carousel,Promotion,Sunday,15,18514,1516,34,88,188,222,14,4425,8587,22.84
+Client_926,Fashion,YouTube Shorts,Carousel,Behind the Scenes,Tuesday,19,6063,725,16,89,97,115,13,2396,13153,12.94
+Client_927,Technology,Facebook,Reel,Tips & Tricks,Wednesday,15,14902,947,70,136,94,193,20,3834,13313,20.47
+Client_928,Education,Facebook,Carousel,Customer Story,Sunday,12,16340,1595,79,192,127,258,26,1627,18278,29.77
+Client_929,Beauty,Facebook,Carousel,Tips & Tricks,Sunday,18,17577,1070,80,190,59,238,25,1806,32724,23.6
+Client_930,Food,Instagram,Static,Promotion,Monday,21,14983,1785,93,209,184,170,16,1849,17969,32.84
+Client_931,Beauty,YouTube Shorts,Carousel,Promotion,Monday,13,18942,1460,100,114,114,287,34,1371,20070,28.07
+Client_932,Food,YouTube Shorts,Reel,Product Education,Sunday,16,13412,1507,92,135,185,168,9,1291,11320,27.04
+Client_933,Fashion,Instagram,Reel,Customer Story,Monday,11,13856,504,17,87,43,193,15,2959,12191,9.93
+Client_934,Technology,Instagram,Carousel,Promotion,Friday,17,20677,1724,104,305,163,285,17,4379,22370,35.96
+Client_935,Fitness,Instagram,Carousel,Tips & Tricks,Friday,22,16503,1972,84,345,243,118,7,1254,4348,38.96
+Client_936,Beauty,YouTube Shorts,Static,Product Education,Thursday,14,20623,2445,53,220,306,543,30,3863,10494,41.66
+Client_937,Beauty,Instagram,Static,Product Education,Friday,15,5811,416,25,41,58,124,4,1463,8089,6.9
+Client_938,Education,Instagram,Carousel,Customer Story,Sunday,10,6304,377,10,26,49,62,5,546,4676,5.06
+Client_939,Education,Instagram,Carousel,Behind the Scenes,Tuesday,13,24122,1220,56,172,171,181,8,693,9648,23.47
+Client_940,Technology,YouTube Shorts,Carousel,Product Education,Saturday,16,23808,942,45,81,95,370,13,2652,17853,15.95
+Client_941,Education,Facebook,Static,Behind the Scenes,Tuesday,9,4523,367,21,39,54,64,3,1047,4693,5.94
+Client_942,Fitness,Facebook,Reel,Tips & Tricks,Monday,11,6767,284,17,14,13,167,7,2678,10289,3.56
+Client_943,Fashion,Facebook,Reel,Customer Story,Tuesday,21,20158,947,45,106,48,296,31,4935,35579,18.19
+Client_944,Food,YouTube Shorts,Reel,Tips & Tricks,Tuesday,21,28527,3397,82,242,370,437,45,2346,51515,55.55
+Client_945,Education,Instagram,Carousel,Product Education,Sunday,13,17931,1621,122,163,172,478,57,1543,46354,37.6
+Client_946,Education,YouTube Shorts,Static,Behind the Scenes,Tuesday,17,17832,1775,81,95,83,126,17,1692,18024,25.08
+Client_947,Technology,Facebook,Carousel,Customer Story,Thursday,18,7972,673,50,108,61,137,16,1624,14441,14.61
+Client_948,Fashion,YouTube Shorts,Carousel,Customer Story,Friday,16,26615,1440,52,126,138,341,47,2461,40529,28.2
+Client_949,Technology,Facebook,Reel,Customer Story,Friday,18,9453,792,47,58,85,233,29,2916,15837,16.27
+Client_950,Beauty,YouTube Shorts,Static,Customer Story,Tuesday,20,18434,840,53,137,92,186,23,3263,14122,19.08
+Client_951,Technology,Instagram,Carousel,Promotion,Saturday,12,23618,1434,50,85,76,340,32,3720,8641,22.4
+Client_952,Food,Facebook,Carousel,Promotion,Friday,17,11374,771,27,136,84,196,8,4081,7733,14.45
+Client_953,Fashion,Instagram,Reel,Product Education,Wednesday,20,8481,466,24,39,58,238,26,2178,12181,10.5
+Client_954,Fashion,Instagram,Reel,Customer Story,Friday,19,17602,909,30,116,111,496,35,2436,14363,19.9
+Client_955,Fitness,YouTube Shorts,Carousel,Behind the Scenes,Tuesday,20,23750,2029,156,125,246,699,43,4483,16994,41.46
+Client_956,Food,Facebook,Reel,Behind the Scenes,Thursday,17,22015,2478,91,124,282,349,46,3667,34224,42.47
+Client_957,Food,Instagram,Reel,Promotion,Saturday,15,24375,2597,168,137,322,246,27,4077,32858,46.73
+Client_958,Technology,Facebook,Reel,Promotion,Friday,17,20916,1769,74,250,187,470,35,3809,17955,36.04
+Client_959,Technology,Facebook,Carousel,Customer Story,Tuesday,19,17720,1136,82,198,131,338,36,1029,25847,28.37
+Client_960,Education,YouTube Shorts,Carousel,Customer Story,Thursday,8,29729,2083,94,222,163,348,48,2628,36815,39.84
+Client_961,Food,Instagram,Static,Tips & Tricks,Friday,16,9130,1078,45,160,53,254,10,910,5709,18.03
+Client_962,Fitness,Facebook,Carousel,Behind the Scenes,Wednesday,10,7563,382,14,44,25,55,1,1941,5033,4.63
+Client_963,Education,Facebook,Reel,Behind the Scenes,Monday,20,16091,594,39,50,74,295,36,3522,37105,14.76
+Client_964,Food,YouTube Shorts,Reel,Behind the Scenes,Sunday,8,14536,1438,73,75,137,93,4,896,4197,21.03
+Client_965,Food,Instagram,Static,Customer Story,Friday,20,11320,803,50,114,46,228,7,3591,2727,13.97
+Client_966,Technology,Facebook,Static,Promotion,Saturday,20,9612,916,67,101,101,172,21,3819,23458,19.18
+Client_967,Fitness,Facebook,Reel,Tips & Tricks,Sunday,15,20232,983,55,96,71,406,32,3579,20852,19.56
+Client_968,Fashion,Facebook,Carousel,Behind the Scenes,Sunday,8,10135,988,46,125,121,86,10,3746,6165,18.25
+Client_969,Fashion,Instagram,Carousel,Customer Story,Thursday,14,20281,1286,41,86,187,225,10,1329,8584,20.82
+Client_970,Fashion,Facebook,Carousel,Promotion,Saturday,21,4279,241,16,29,10,126,16,1055,12475,4.99
+Client_971,Food,Facebook,Static,Behind the Scenes,Monday,9,12156,979,23,113,107,173,14,3236,18708,16.57
+Client_972,Technology,YouTube Shorts,Carousel,Customer Story,Wednesday,8,10040,1099,71,116,106,217,20,4644,7616,21.32
+Client_973,Education,Facebook,Static,Promotion,Saturday,19,4286,422,13,54,29,45,1,599,1979,5.35
+Client_974,Education,YouTube Shorts,Reel,Promotion,Sunday,21,29906,2426,192,187,361,271,9,4453,10036,47.09
+Client_975,Food,Facebook,Reel,Promotion,Monday,9,20372,1742,137,279,252,233,22,3208,22386,40.61
+Client_976,Fitness,Instagram,Static,Tips & Tricks,Friday,18,11312,1131,39,176,99,133,18,2962,16995,21.27
+Client_977,Fashion,YouTube Shorts,Carousel,Customer Story,Monday,21,13327,1412,46,246,128,117,4,4941,6041,25.02
+Client_978,Education,YouTube Shorts,Carousel,Promotion,Friday,13,13946,622,30,106,29,179,24,4068,19500,13.21
+Client_979,Food,Facebook,Carousel,Product Education,Wednesday,13,8046,593,47,101,49,83,6,2426,5250,11.69
+Client_980,Fitness,Instagram,Carousel,Behind the Scenes,Friday,13,24446,954,23,139,53,384,52,1744,15721,21.46
+Client_981,Education,Instagram,Reel,Behind the Scenes,Wednesday,21,21272,2395,148,327,118,194,13,1318,8531,42.41
+Client_982,Fashion,Instagram,Static,Product Education,Sunday,22,9039,1000,69,113,69,111,14,1087,17744,18.31
+Client_983,Food,Instagram,Carousel,Tips & Tricks,Sunday,12,10157,775,38,61,55,150,10,1833,13482,11.9
+Client_984,Education,Facebook,Static,Customer Story,Wednesday,18,7878,799,56,109,50,130,14,801,5115,15.31
+Client_985,Fitness,Instagram,Reel,Product Education,Thursday,10,12366,685,27,62,45,210,16,2978,17334,11.21
+Client_986,Education,YouTube Shorts,Reel,Customer Story,Tuesday,14,10205,351,24,54,29,258,22,3756,25794,8.67
+Client_987,Education,Instagram,Carousel,Promotion,Saturday,13,23565,1097,79,78,74,172,23,3240,9567,19.92
+Client_988,Food,Instagram,Static,Tips & Tricks,Thursday,12,9301,628,41,82,74,232,17,522,10024,13.36
+Client_989,Fitness,Instagram,Reel,Behind the Scenes,Wednesday,18,26933,1755,90,222,249,267,32,822,27721,37.32
+Client_990,Fitness,Facebook,Static,Promotion,Monday,12,2634,218,16,12,28,40,3,2391,6166,2.78
+Client_991,Fitness,Instagram,Carousel,Customer Story,Wednesday,22,6268,565,30,57,22,67,3,4180,4734,7.63
+Client_992,Fashion,Facebook,Reel,Product Education,Sunday,20,14711,1685,35,274,203,355,44,919,38104,35.8
+Client_993,Food,YouTube Shorts,Static,Tips & Tricks,Wednesday,20,10956,1241,53,179,73,234,7,4018,5010,20.56
+Client_994,Beauty,Instagram,Carousel,Product Education,Monday,10,13460,757,26,53,65,312,22,2865,16894,12.9
+Client_995,Beauty,YouTube Shorts,Static,Product Education,Monday,10,4887,566,13,84,69,57,2,4196,2184,8.86
+Client_996,Fitness,YouTube Shorts,Carousel,Tips & Tricks,Monday,15,8728,541,13,39,69,162,9,649,11345,8.15
+Client_997,Fashion,Instagram,Reel,Customer Story,Tuesday,16,28155,3356,219,321,259,414,50,1348,57997,63.57
+Client_998,Education,Instagram,Reel,Behind the Scenes,Friday,18,26050,2534,60,453,164,558,77,4549,66890,53.85
+Client_999,Education,Facebook,Static,Customer Story,Tuesday,22,2876,134,7,6,15,41,2,560,4940,0.85
+Client_1000,Fashion,Instagram,Reel,Tips & Tricks,Friday,16,11021,800,42,97,99,88,11,3097,8067,15.09
